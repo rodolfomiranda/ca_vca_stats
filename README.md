@@ -76,11 +76,12 @@
   </tbody>
 </table>
 </div>
+
 ## Final scores
 ### Fund 6
 <details>
   <summary>Click to show</summary>
-```
+
     ****** F6: DApps & Integrations ******
     Win-Win Dispute Resolution                        5.00
     P2P IoT Marketplaces - Adosia IoT                 4.89
@@ -828,10 +829,11 @@
     ADA SPO ITsec Label                               2.67
     A.S.T.O.P. - Stop Scams & Threats                 1.90
 </details>
+  
 ### Fund 7
 <details>
   <summary>Click to show</summary>
-```
+
     ****** F7: Community Events ******
     Insight Sharing Workshops - TCS                   4.83
     Idea Fest by Catalyst Swarm                       4.79
@@ -1830,6 +1832,7 @@
 <details>
   <summary>Click to show</summary>
 </details>
+  
 ## Fancy wordcloud from CA's feedack
 ![png](output_33_0.png)
 ## CA bias from average score histogram
