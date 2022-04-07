@@ -1,24 +1,17 @@
-# CA - vCA statistics evolution through funds
-
+# CA - vCA statistics. Evolution through funds
 ## Data source
 - [vCA Aggregated - Fund 6](https://docs.google.com/spreadsheets/d/1hEUq2mCEYUk-oWaU-dFESu0lyo5zRR2HL7M7O8aURes/edit#gid=0)
 - [vCA Aggregated - Fund 7](https://docs.google.com/spreadsheets/d/1ZM3ytXkMB34iSo2LamNxpver-rs9fShnpeNEia-VdBo/edit#gid=1623244429)
-
 ## Engagement
 ![png](output_9_0.png)
-
 ## Proposal's quality
 ![png](output_12_0.png)
-
 ## CA's workload
 ![png](output_15_0.png)
-
 ## CA's quality
 ![png](output_18_0.png)
-
 ## vCA's workload
 ![png](output_21_0.png)
-
 ## Additional stats
 <div>
 <style scoped>
@@ -96,14 +89,11 @@
   </tbody>
 </table>
 </div>
-
 ## Final scores
+### Fund 6
 <details>
   <summary>Click to show</summary>
-    ##########################################
-    ############## FUND F6 ###################
-    ##########################################
-    
+```
     ****** F6: DApps & Integrations ******
     Win-Win Dispute Resolution                        5.00
     P2P IoT Marketplaces - Adosia IoT                 4.89
@@ -850,11 +840,11 @@
     Repository of SPO Testing Resources               2.78
     ADA SPO ITsec Label                               2.67
     A.S.T.O.P. - Stop Scams & Threats                 1.90
-     
-    ##########################################
-    ############## FUND F7 ###################
-    ##########################################
-    
+</details>
+### Fund 7
+<details>
+  <summary>Click to show</summary>
+```
     ****** F7: Community Events ******
     Insight Sharing Workshops - TCS                   4.83
     Idea Fest by Catalyst Swarm                       4.79
@@ -1847,7 +1837,18 @@
     On line local Area shopping by ADA                2.80
     Product Exhibition from Shikoku                   2.78
     Application contest for students                  2.58
-</details> 
+</details>
 
+### Fund 8
+<details>
+  <summary>Click to show</summary>
+</details>
 ## Fancy wordcloud from CA's feedack
-![png](output_28_0.png)
+![png](output_33_0.png)
+## CA bias from average score histogram
+### Fund 6
+![png](output_36_1.png)
+### Fund 7
+![png](output_38_1.png)
+### Fund 8
+![png](output_40_1.png)
