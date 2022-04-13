@@ -5,7 +5,7 @@
 ## Engagement
 ![png](output_9_0.png)
 ## Proposal's quality
-![png](output_12_0.png)
+![png](output_12_0.png)d
 ## CA's workload
 ![png](output_15_0.png)
 ## CA's quality
