@@ -2,9 +2,9 @@
 ## Data source
 - [vCA Aggregated - Fund 6](https://docs.google.com/spreadsheets/d/1hEUq2mCEYUk-oWaU-dFESu0lyo5zRR2HL7M7O8aURes/edit#gid=0)
 - [vCA Aggregated - Fund 7](https://docs.google.com/spreadsheets/d/1ZM3ytXkMB34iSo2LamNxpver-rs9fShnpeNEia-VdBo/edit#gid=1623244429)
-- [vCA Aggregated - Fund 8](https://docs.google.com/spreadsheets/d/1EFnMK1A4Umu_a6U-bYY7XHpf27Ojb_ZMzxOPngJ3wnE/edit#gid=1324970937)                            
+- [vCA Aggregated - Fund 8](https://docs.google.com/spreadsheets/d/1EFnMK1A4Umu_a6U-bYY7XHpf27Ojb_ZMzxOPngJ3wnE/edit#gid=1324970937)  
+- [vCA Aggregated - Fund 8 (top vCA removed)](https://docs.google.com/spreadsheets/d/1hHp4YTEvEuOtXHZzlGESBx-UtOtd9pxjbXWXzDpyY6I/edit#gid=1439112888)  
 ## Engagement
-
 ![png](output_9_0.png)
 ## Proposal's quality
 ![png](output_12_0.png)
@@ -43,7 +43,7 @@
       <th>vCAs</th>
       <td>61.00</td>
       <td>112.00</td>
-      <td>85.00</td>
+      <td>84.00</td>
     </tr>
     <tr>
       <th>proposals/CAs</th>
@@ -55,13 +55,13 @@
       <th>CAs/vCAs</th>
       <td>5.20</td>
       <td>4.84</td>
-      <td>8.28</td>
+      <td>8.38</td>
     </tr>
     <tr>
       <th>Assesments/vCA</th>
       <td>67.51</td>
       <td>81.79</td>
-      <td>129.61</td>
+      <td>131.15</td>
     </tr>
     <tr>
       <th>CA's assessments [mean]</th>
@@ -79,13 +79,13 @@
       <th>vCA's reviews [mean]</th>
       <td>621.16</td>
       <td>1,711.58</td>
-      <td>1,170.38</td>
+      <td>1,067.23</td>
     </tr>
     <tr>
       <th>vCA's reviews [median]</th>
       <td>306.00</td>
       <td>711.00</td>
-      <td>496.00</td>
+      <td>488.50</td>
     </tr>
   </tbody>
 </table>
@@ -101,21 +101,21 @@
     Win-Win Dispute Resolution                        5.00
     P2P IoT Marketplaces - Adosia IoT                 4.89
     Dapp to control/monetize your data                4.80
-    SuBChain: Subsea Data Ledger                      4.67
     Cardax - DEX on Cardano phase 2,3,4               4.67
+    SuBChain: Subsea Data Ledger                      4.67
     ADAPlus.io - Mass payments system                 4.62
     AdaQuest(aka The Quest for Ada)                   4.57
-    Zero-interest-penalty CD Token                    4.50
     Liquifi V2 - efficient DEX protocol               4.50
+    Zero-interest-penalty CD Token                    4.50
     Tales In The Blocks|Collab-writing                4.50
     Private Transactions on Cardano                   4.47
-    Connect discord with cardano                      4.44
     Mirqur DEX - Improved LP Interface                4.44
+    Connect discord with cardano                      4.44
     Estati - Real Estate Investments                  4.42
     Arbitration for Smart Contracts                   4.40
     Cardano features for everyone                     4.33
-    Blockademia Verification System                   4.33
     ALLIN Betting Ecosystem                           4.33
+    Blockademia Verification System                   4.33
     Upper/Cut! Unity Card Game dApp                   4.33
     Cornucopias Smart Contracts                       4.33
     API for Multi-Delegation Portfolios               4.22
@@ -125,22 +125,22 @@
     Decentralized tutoring marketplace                4.11
     IGIVIT Phase2: Beyond the Prototype               4.08
     Meditation empowered by blockchain                4.08
-    NOETH: Cardano for Science                        4.06
     Nami Wallet                                       4.06
+    NOETH: Cardano for Science                        4.06
     ADA Payments for eCom and Store                   4.00
     Cardano Blue NFT Marketplace                      3.94
     Cardano Healthcare Infrastructure                 3.90
     Cardol.io: Portfolio Tracker                      3.90
     M2 Realfi openhardware                            3.83
-    Decentralized Content Network                     3.78
     de-way: empowering ideas                          3.78
+    Decentralized Content Network                     3.78
     Automated Tax Collection                          3.67
     Staking Pool as a Service                         3.67
     Cardano Music Streaming Dapp                      3.61
-    Cardano Credit Card                               3.60
-    NFTree: regenerating the planet                   3.60
-    NFT Business lessons                              3.60
     Nature Coin: Climate Change DAO                   3.60
+    NFTree: regenerating the planet                   3.60
+    Cardano Credit Card                               3.60
+    NFT Business lessons                              3.60
     Youbiquitor - Task Marketplace                    3.58
     Telegram Bot Wallet                               3.58
     NFT-Craze Android iOS Light Wallet                3.56
@@ -157,17 +157,17 @@
     Patient Data Marketplace DApp                     2.92
     Efficient Markets for Public Goods                2.92
     Dapp market for tickets and events                2.92
-    Dolos: dVPN                                       2.83
     Project Rockstar - the MAIN hustle                2.83
+    Dolos: dVPN                                       2.83
     projectNEWM: Fair music ecosystem                 2.83
     Payments for High Risk Businesses                 2.78
     IG-inspired DApp for Pet lover                    2.75
-    School of Life                                    2.75
     Liquidity for cross-border payments               2.75
+    School of Life                                    2.75
     Bring traffic to brick&mortar biz                 2.71
-    Gas Pipeline Security upgrade.                    2.67
     Data Marketplace with AI powered                  2.67
     Project Babbage: Ada Makes Movies                 2.67
+    Gas Pipeline Security upgrade.                    2.67
     CcNFTs: Empowering Musicians                      2.57
     Multisig For Building EVM Bridges                 2.56
     Pilot traceability of vegetables                  2.54
@@ -182,14 +182,14 @@
     Point-of-Sale & Website Checkout                  2.13
     Shared Reality - incentive token                  2.11
     M2-mini-atm                                       2.00
-    Decentralised Advertising Platform.               2.00
     Shared Reality - immutable database               2.00
+    Decentralised Advertising Platform.               2.00
     OctoWars                                          1.93
     Aregato - ADA ebook marketplace                   1.92
     Car service history                               1.90
     Decentralized Music Streaming                     1.81
-    Donors choose - like' application                 1.40
     NAGchi                                            1.40
+    Donors choose - like' application                 1.40
     Ecommerce and lending platform                    1.33
     Help Renters Access Homeownership                 1.33
     M2-World-ERP                                      1.33
@@ -203,12 +203,12 @@
     DAOs to Fund Projects                             1.00
      
     ****** F6: Developer ecosystem ******
-    Software as a Service for Cardano                 5.00
-    Gravatar for ADA Wallets                          5.00
     Plutus PAB Typescript SDK                         5.00
+    Gravatar for ADA Wallets                          5.00
+    Software as a Service for Cardano                 5.00
     gimbalabs-building network capacity               4.94
-    Orcfax: trustworthy Cardano oracles               4.92
     Cardano Wallet lib in pure JS(TS)                 4.92
+    Orcfax: trustworthy Cardano oracles               4.92
     Koios - Elastic Cardano Query Layer               4.92
     Cardanoscan API Service                           4.87
     gimbalabs - Plutus PBL program                    4.83
@@ -218,45 +218,45 @@
     Bip32Ed25519 pure JS implementation               4.78
     Transaction editor to replace cli                 4.75
     Logosphere - dApp Hackathons                      4.73
-    Cardano Wallet JS Multisig                        4.67
     Ikigai - UE4/Unity Plugins & Tools                4.67
-    Blace.io: Marketplace Creator                     4.67
     gimbalabs - Dandelion Daemon(s)                   4.67
+    Blace.io: Marketplace Creator                     4.67
+    Cardano Wallet JS Multisig                        4.67
     Visual Blockchain Designer/Explorer               4.67
     Open-source ISO Toolkit                           4.58
     Blockfrost PAB                                    4.56
     Heidrun Expansion Upgrades - Part 2               4.56
     Dataset - On-Chain Analytics                      4.53
-    Heidrun Expansion Upgrades - Part 3               4.50
     Continuous Finance Building Blocks                4.50
+    Heidrun Expansion Upgrades - Part 3               4.50
     Legacy Databases to Blockchain                    4.42
     Zimbabwe Developers for Cardano                   4.40
     African Blockchain Centre for Devs                4.40
     Dataset - Token / CNFT Analytics                  4.33
     Cardano Analytics Data Hub                        4.33
-    Reach POC on Cardano                              4.33
-    Rust Cardano Networking Crate                     4.33
+    Cardano Wallet Flutter SDK - Fund6                4.33
     CardanoSharp - Minting                            4.33
     ADA MakerSpace Bounty Hunters DEVX                4.33
-    Cardano Wallet Flutter SDK - Fund6                4.33
     Elm Integration with Plutus                       4.33
+    Reach POC on Cardano                              4.33
+    Rust Cardano Networking Crate                     4.33
     Localize Yoroi for Vietnam market                 4.28
     Heidrun Expansion Upgrades - Part 1               4.28
     Legal resources for developers                    4.27
+    GameChanger: The onboarding wallet                4.25
     Dataset - Stake Pool Analytics                    4.25
     Localize Yoroi for Bulgaria                       4.25
-    GameChanger: The onboarding wallet                4.25
-    Blockfrost Unity games assets                     4.24
     Crowdfunding Website for Start-Ups                4.24
+    Blockfrost Unity games assets                     4.24
     C64 Modular Wallet                                4.22
     Heidrun Core Management Upgrades                  4.22
     3D-Level editor for game-devs                     4.17
-    CardanoSharp - Unity SDK                          4.08
     True limitations of the Marlowe                   4.08
+    CardanoSharp - Unity SDK                          4.08
     Contract Labeling & Transparency                  4.07
     Minswap TypeScript SDK                            4.06
-    Treasury for Mini-Proposals                       4.00
     CardanoSharp - UnrealEngine SDK                   4.00
+    Treasury for Mini-Proposals                       4.00
     StorJ for NFT storage [NFT-MAKER]                 3.93
     Arweave as NFT storage [NFT-MAKER]                3.92
     Visual DAO Framework                              3.92
@@ -267,10 +267,10 @@
     Testnet support for API [NFT-MAKER]               3.78
     No-Code Smart Contracts                           3.78
     Africa/Diaspora Dev Tools & Events                3.67
-    CardanoSharp - Multisig                           3.67
     AI App Builder                                    3.67
-    SOLID Software Development Projects               3.56
+    CardanoSharp - Multisig                           3.67
     Cardano Developer Academy                         3.56
+    SOLID Software Development Projects               3.56
     Plutus Integration with Pony Lang                 3.53
     BEN Learn Cardano Developer Course                3.52
     Localize Yoroi for Ukraine                        3.47
@@ -297,8 +297,8 @@
     People Centred Design = less risk                 1.73
     Ranking projects built on cardano                 1.67
     Blockchain-Powered forex Market                   1.58
-    Cardano Data Indexing                             1.50
     CCC: Work|Live|Play@MOA                           1.50
+    Cardano Data Indexing                             1.50
     Cross-border payment processing                   1.42
     Gaming in Cardano For Mass Adoption               1.33
     Holistic Development Case Studies                 1.17
@@ -314,8 +314,8 @@
     osNFTs for science popularization                 4.20
     Cardano Preserving Culture                        4.08
     SoHo Ex - Physically backed NFTs                  4.08
-    Dionysus - For Theatre: Phase 1                   4.00
     WottleNFT: SDGs Driven NFT Auction                4.00
+    Dionysus - For Theatre: Phase 1                   4.00
     Collaborative painting using NFTs                 4.00
     Cornucopias The Island NFT Game                   3.94
     Digital Asset Management Tool                     3.83
@@ -327,33 +327,33 @@
     Mushroom Breeding Program                         3.60
     Solletia - Indie music NFT website                3.56
     Ikigai - Disrupting Games via NFTs                3.56
-    Decentralized Content Distribution                3.50
     Intellectual Property Transactions                3.50
-    Artifact- NFT for Real Property                   3.44
+    Decentralized Content Distribution                3.50
     Verifiable Game Achievement NFT                   3.44
+    Artifact- NFT for Real Property                   3.44
     Multi Owner NFT's                                 3.39
     NFT Gaming Model + Token economics                3.33
     CONTENT MARKETPLACE SUPPORTED BY AI               3.33
     CARDANO IPR                                       3.33
     Anime NFT game - gap in the market                3.33
-    Asset Management on the Ledger                    3.25
     Cardano Onboarding Funnel via NFTs                3.25
-    NFT for the masses                                3.22
+    Asset Management on the Ledger                    3.25
     NFT's as Proof of Donations (PoD)                 3.22
+    NFT for the masses                                3.22
     NFT for Real estate and Land                      3.17
     NFTs for Architecture & STEM                      3.17
     Skill Certification for Mediators                 3.17
-    Bets as NFTs.                                     3.13
     NFTs as event-and transport tickets               3.13
+    Bets as NFTs.                                     3.13
     NFT bridge and mega-gallery                       3.10
     African Cultural NFT Treasury Model               3.08
     ForestConservation + CarbonCredits                3.07
     Conservation of Life on Earth                     3.06
     Digital Twin NFT for Farm products                3.00
     Explorie the next NFT platform                    3.00
-    Sustainable Footwear & Prosumers                  2.89
-    Certified Qualifications via NFTs                 2.89
     Get points for sharing knowledge                  2.89
+    Certified Qualifications via NFTs                 2.89
+    Sustainable Footwear & Prosumers                  2.89
     Cardano Affordable Housing - 日本                   2.83
     Marketplace for tokenized property                2.83
     Tech Town Cardano                                 2.78
@@ -363,8 +363,8 @@
     OmiMimo: The 1st e-NFT on Cardano                 2.50
     Cardano NFT Idea Patenting                        2.44
     Mimic Nature with Living NFT                      2.44
-    nftAno - Bring your CNFT !                        2.33
     Engaging eco-NFTs for the Planet                  2.33
+    nftAno - Bring your CNFT !                        2.33
     CyphrLive Ticketing                               2.33
     Mortgage Equity Realisation                       2.22
     Commodity Exchange Market                         2.22
@@ -380,8 +380,8 @@
     NFT for translation rights                        1.60
     Souvenir                                          1.59
     ADA trading metaverse                             1.53
-    Hup | hearth up                                   1.47
     NFT Real Estate                                   1.47
+    Hup | hearth up                                   1.47
     Toddler HODLer Generative NFTs                    1.44
     NITTYGRITTY (NEW MEDIA)                           1.42
     Bidpool.xyz - NFT Governance Tokens               1.40
@@ -399,18 +399,18 @@
     ALDEA Wiki - Phase 2 - Portuguese                 4.67
     Japanese SPO community management                 4.56
     The Catalyst School - Multilanguage               4.47
-    Voter tool translations - AIM                     4.40
     French & Arabic resources &trainers               4.40
+    Voter tool translations - AIM                     4.40
     Translating ProjectCatalyst                       4.25
     Indonesian Community Web-Portal                   4.22
     SPOCRA: Expand Geographic Reach                   4.17
     Catalyst Course in Vietnamese                     4.14
     Cardano Project in Spanish                        4.04
-    100 Cardano animations non English                4.00
     Multilingual Cardano Chatbot & KB                 4.00
+    100 Cardano animations non English                4.00
     French Intro to Cardano in Burkina                3.87
-    Content translation for Chinese                   3.67
     Lovelace translation Portuguese                   3.67
+    Content translation for Chinese                   3.67
     Cardano news in Chinese                           3.52
     Translation into Amharic                          3.50
     Babelada - Translation Community                  3.40
@@ -434,9 +434,9 @@
      
     ****** F6: Atala PRISM DID Mass-Scale Adoption ******
     Interoperability as growth driver                 4.78
-    A Passive Interface Pair (DID)                    4.50
     Proof of identity for mediators                   4.50
     DID Solutions for Local Governments               4.50
+    A Passive Interface Pair (DID)                    4.50
     Universal Skills Authentication                   4.50
     DID in Congo Universities                         4.42
     PACE: Community credentials                       4.33
@@ -464,8 +464,8 @@
     Verify NFT authenticity [NFT-MAKER]               3.00
     Tutorchain.io - Expert identity                   2.92
     Cardano Grants Management Systems                 2.78
-    Welcome to the Oasis, Please Login                2.75
     Distributed Health Records                        2.75
+    Welcome to the Oasis, Please Login                2.75
     Dyana holistic health DID                         2.67
     BingoChain - User Authentication                  2.58
     DIDs for public services in the US                2.56
@@ -473,8 +473,8 @@
     CUBI Cardano Universal Basic Income               2.33
     DID as a bridge to Microsoft                      2.33
     Aegis Esports DID Platform                        2.00
-    Maternity Medical data in Ethiopia                1.33
     Cardano Sign-In                                   1.33
+    Maternity Medical data in Ethiopia                1.33
     gigDID                                            1.27
     CCC: PRISM RIDE @MOA; 40M Visits/yr               1.25
      
@@ -502,10 +502,10 @@
     Africa Opensource Pharma & Medicine               3.29
     Payment with ADA in Ethiopia                      3.27
     Fair Pricing for Ethiopian Coffee                 3.17
-    LINX: Chat | Connect | Trade                      3.00
     Employment Contract Dapp                          3.00
-    DApp Binding Arbitration Africa                   2.83
+    LINX: Chat | Connect | Trade                      3.00
     Enable Digital Governance                         2.83
+    DApp Binding Arbitration Africa                   2.83
     Blockchain powered banking                        2.73
     Auto-onboard smallholder farmers                  2.39
     Location, Location, Integration                   2.33
@@ -525,8 +525,8 @@
     Community Events                                  5.00
     Disarm cyber disinformation attacks               5.00
     Lobbying for favorable legislation                5.00
-    Catalyst - Rapid Funding Mechanisms               5.00
     Boosting Cardano's DeFi                           5.00
+    Catalyst - Rapid Funding Mechanisms               5.00
     Seeding Cardano's Grassroots DeFi                 4.89
     Gamers On-Chained                                 4.87
     DAOs <3 Cardano                                   4.83
@@ -534,45 +534,45 @@
     New SPO Business Opportunities                    4.83
     Scale-UP Cardano's Community Hubs                 4.78
     Global Sustainable Indep. SPO's                   4.73
-    Multilingual resources                            4.67
     Improve and Grow Auditability                     4.67
-    Nation Building Dapps                             4.67
     Raising small ghosts, SPOs and devs               4.67
+    Nation Building Dapps                             4.67
+    Multilingual resources                            4.67
     Grow Latin America, Grow Cardano                  4.67
     Increasing Diversity in Catalyst                  4.67
-    Governance Parameter Ideation                     4.56
     Miscellaneous Challenge                           4.56
+    Governance Parameter Ideation                     4.56
     Grow Cardano Act Sustainably                      4.56
     Open Source Developer Ecosystem                   4.56
-    A.I. & SingularityNet a $5T market                4.50
     Mini/Low-Budget Dapps &Integrations               4.50
+    A.I. & SingularityNet a $5T market                4.50
     Developer ecosystem                               4.44
     Already Approved Project Challenge                4.44
-    Infrastructure Boost in Africa                    4.33
-    Metadata challenge                                4.33
     Realfi                                            4.33
+    Metadata challenge                                4.33
+    Infrastructure Boost in Africa                    4.33
     Grow Africa, Grow Cardano                         4.17
     Atala PRISM DID Mass-Scale Adoption               4.17
     Distributed decision making                       4.14
     Challenge Governance: The next step               4.11
     Climate Change: THE Challenge                     4.06
     Proposer outreach                                 4.00
-    Prototype Diversified Voting Method               4.00
-    Connecting Japan/日本 Community                     4.00
     DeFi and Microlending for Africa                  4.00
-    A financial OS for the 99% - now!                 3.83
+    Connecting Japan/日本 Community                     4.00
+    Prototype Diversified Voting Method               4.00
     Equip the Economically Excluded                   3.83
+    A financial OS for the 99% - now!                 3.83
     Grow Global Economic Identities                   3.78
-    Research Challenge                                3.67
     Overhaul Catalyst                                 3.67
-    Help Small Countries Adopt Cardano                3.33
+    Research Challenge                                3.67
     Grow Social & Environmental Finance               3.33
+    Help Small Countries Adopt Cardano                3.33
     Grow East Asia, Grow Cardano                      3.33
     Making Web3 Visible                               3.11
-    DLT Entrepreneurship Toolbox                      3.00
-    Community Roadmaps for Cardano 2025               3.00
-    Anti-scam & anti-fraud campaign                   3.00
     Raise Catalyst's reach & awareness                3.00
+    Anti-scam & anti-fraud campaign                   3.00
+    Community Roadmaps for Cardano 2025               3.00
+    DLT Entrepreneurship Toolbox                      3.00
     Cardano Ecosystem Gender Equality                 2.83
     Tackle & solve impossible problems                2.67
     Funding for Traditional Businesses                2.58
@@ -589,8 +589,8 @@
     SalmonNation Decentralized Alliance               4.67
     DisCO of Urgency                                  4.58
     BLOCKCHAINTRANSLATION.IO                          4.53
-    Cardano Hub Buenos Aires                          4.50
     Cardano in South L.A.                             4.50
+    Cardano Hub Buenos Aires                          4.50
     Cardano Vietnam Information Centre                4.44
     Translator Collaboration Platform                 4.42
     Add multilanguage to CNFTHub.io                   4.33
@@ -631,8 +631,8 @@
     University/College Outreach                       3.89
     No-Code for Citizen Developers                    3.87
     Hackathons for Startups in Ethiopia               3.73
-    Catalyst Infosession at Tech Events               2.67
     Cardano exposure on Times Square                  2.67
+    Catalyst Infosession at Tech Events               2.67
     Cardano & Enterprise Dev Agencies                 2.53
     Develop Cardano visuals                           2.44
     Vietnam Tech StartupClub on Cardano               2.42
@@ -709,8 +709,8 @@
     The Catalyst School                               4.90
     Match members profiles with tasks                 4.78
     Incentivized Voter Survey - AIM                   4.75
-    Community Site: Development - AIM                 4.67
     The Catalyst School - Website                     4.67
+    Community Site: Development - AIM                 4.67
     WADA Uni Students Catalyst Registry               4.58
     Community Subscription Fees Recoup                4.56
     Catalyst-Swarm-Genesis GitBook                    4.53
@@ -755,8 +755,8 @@
     Testing MyVoice MVP in Catalyst                   1.44
      
     ****** F6: DLT Entrepreneurship Toolbox ******
-    Entrepreneur Community Mentoring                  5.00
     IDEA FEST for Fund 6 + 7                          5.00
+    Entrepreneur Community Mentoring                  5.00
     Catalyst Virtual Start-up Bootcamp                4.73
     Community-Made Interactive Guides                 4.58
     Scale up WADA's Outreach Program                  4.47
@@ -811,8 +811,8 @@
     Almagua DAO                                       4.00
     WottleNFT: SDGs Driven NFT Auction                3.75
     Add SDG ratings to proposals - AIM                3.73
-    Tokenised crypto events (ICWT)                    2.67
     Partnership for De-Fi Adoption                    2.67
+    Tokenised crypto events (ICWT)                    2.67
     Research dApp                                     2.50
     Cardano Powering Planet Improvement               2.05
     Involve more gov. & UN officials                  1.83
@@ -843,7 +843,7 @@
     Repository of SPO Testing Resources               2.78
     ADA SPO ITsec Label                               2.67
     A.S.T.O.P. - Stop Scams & Threats                 1.90
-
+     
 </details>
 
 ### Fund 7
@@ -878,8 +878,8 @@
     Project Catalyst HeartBeat                        4.03
     College Student Recruitment                       3.97
     Cardano goes to Milan                             3.82
-    The Cardano Classroom                             3.80
     KONMAHOOD - Defining Communities.                 3.80
+    The Cardano Classroom                             3.80
     Cardano local live events - Poland                3.64
     Build Cardano community in Tanzania               3.58
     Local Cardano Meetups                             3.39
@@ -909,10 +909,10 @@
     NFT Verification Tool (Open-Source)               4.75
     C64 Extension Wallet                              4.73
     ADA Handle Wallet Authentication                  4.72
-    Rythmeet:a versatile music platform               4.67
     DAO-NET: Voting DApp                              4.67
-    Events Adoption & Reward                          4.58
+    Rythmeet:a versatile music platform               4.67
     Portal: NFQ's digital asset mgmt.                 4.58
+    Events Adoption & Reward                          4.58
     Treedano: NFTs for mature trees                   4.56
     StreamChainQuery                                  4.50
     Project Catapult: None left behind                4.50
@@ -950,15 +950,15 @@
     Anti-counterfeit B2B ecosyst Africa               3.33
     Wine open market - Stappato                       3.33
     Local Charity Fundraising Platform                3.27
-    NFT Trading Platform / DApp                       3.22
     ADA to Mobile Money App                           3.22
+    NFT Trading Platform / DApp                       3.22
     Galaxy Art DeFi Art Gallery                       3.11
     Reverse Bidding Platform                          3.11
     Before Will DApp                                  3.08
     NFTPass - NFT Ticketing Solution                  3.08
     Dollar-Cost Averaging DApp                        3.07
-    Safety & Traceability in Cosmetics                2.78
     New wallet for all OST participant                2.78
+    Safety & Traceability in Cosmetics                2.78
     Vertra: tokenized properties market               2.58
     Dokurizi - decentralised journalism               2.56
     StoryTime - A Writers Marketplace                 2.47
@@ -977,8 +977,8 @@
     DLT & AI for Transport & Logistics                1.71
     Decentralized Bees Delivery System                1.67
     Embedded EUTXO Manager                            1.58
-    Interaction with blockchain                       1.56
     @chain-lib bundle selling component               1.56
+    Interaction with blockchain                       1.56
     @chain-lib Bidding Smart Contract                 1.50
     Market-Agnostic Recursive Royalties               1.47
     Content Wallet for Experiences                    1.40
@@ -986,14 +986,14 @@
      
     ****** F7: Grow Latin America, Grow Cardano ******
     Introductory Blockchain MOOC PT-BR                4.90
-    LATAM Industry Presentation Kit                   4.78
     GameChanger: Dandelion Deployment                 4.78
+    LATAM Industry Presentation Kit                   4.78
     LATAM Town Hall by Catalyst Swarm                 4.77
     ALDEA NFT - Community Marketplace                 4.75
     Spanish/Portuguese Voter Survey-AIM               4.73
+    Cardano Totem: Onboarding the World               4.67
     Decentralized Education - dTeach                  4.67
     Win-Win Expansion in Latam                        4.67
-    Cardano Totem: Onboarding the World               4.67
     New d-EdTech Platform for LatAm                   4.67
     Cardano Ambassadors & Latin America               4.60
     Newcomer Resources en Español                     4.60
@@ -1001,25 +1001,25 @@
     CardanoRio 2022: Hybrid event                     4.58
     Platform for Cardano Solar Farms                  4.56
     Token Allies, Latam Businesses                    4.56
-    Onboard Latin-American Industry!                  4.53
-    Sustainable LatinAmerican Use cases               4.53
-    NOETH: Cardano for science in LATAM               4.53
     Pathform LATAM: Custom growth paths               4.53
-    Networking/Education LATAM                        4.50
-    DALE                                              4.50
+    NOETH: Cardano for science in LATAM               4.53
+    Sustainable LatinAmerican Use cases               4.53
+    Onboard Latin-American Industry!                  4.53
     Endorsing the marginalized                        4.50
+    DALE                                              4.50
+    Networking/Education LATAM                        4.50
     Gig Economy Marketplace LatAm                     4.42
     Spanish courses for universities                  4.39
     Support small farmers in LATAM                    4.33
     Cardano Training & Complex Networks               4.33
-    DeFi School - Latin America                       4.33
     Latam Women Cardano Plutus Bootcamp               4.33
+    DeFi School - Latin America                       4.33
     Cardano Dev Português Brazil                      4.25
     STEM TERRITORY – Online Courses                   4.22
     Grow ALDEA, Grow Latin America                    4.20
-    Food produced with Agriculture 4.0                4.17
     Cardano for STEM Brazilian students               4.17
     Decentralized Content Distribution                4.17
+    Food produced with Agriculture 4.0                4.17
     Latam Community DID Research                      4.11
     Test DAO at Latam Public Spaces                   4.08
     cardway.finance - A payment gateway               4.00
@@ -1057,18 +1057,18 @@
     Marketplace P2P                                   1.25
      
     ****** F7: Miscellaneous Challenge ******
-    The Cardano Carbon Footprint                      5.00
-    GameChanger: Ledger HW support                    5.00
     DLT Governance Classification                     5.00
     Carbon Footprint Ledger                           5.00
+    GameChanger: Ledger HW support                    5.00
+    The Cardano Carbon Footprint                      5.00
     Project Evaluation Website                        4.97
     Ekphrasis Gitbook                                 4.89
     Catalyst Circle Mentorship                        4.83
     Onboard Manufacturing Industry !                  4.78
     Loxe Inc. Plutus Internship Program               4.75
-    Industry Presentation Kit                         4.67
     SustainableADA Goals Token Research               4.67
     Catalyst Swarm Operations                         4.67
+    Industry Presentation Kit                         4.67
     Create Teaming Agreement Templates                4.58
     CCv3: Sustaining the Circle                       4.58
     CC Admin Team Scope Expansion                     4.53
@@ -1087,8 +1087,8 @@
     RAZ Finance: Decentralized Impact                 3.89
     Candy Pop-Up Campaign                             3.83
     Cardano Cube - Ecosystem Overview                 3.83
-    Research DAO                                      3.78
     ADAGLASS Data Intelligence Platform               3.78
+    Research DAO                                      3.78
     SOLID - IDO (Solidarity platform)                 3.78
     Cryptocurrency Exchange for Africa                3.75
     NFTs for a better world                           3.67
@@ -1123,16 +1123,16 @@
     Science Hyperspace on Cardano                     1.72
     NFTree protocol                                   1.48
     Native Tokenomics Template                        1.33
-    AI in geological analysis                         1.20
     Content Synchronization using Audio               1.20
+    AI in geological analysis                         1.20
      
     ****** F7: Fund8 challenge setting ******
     Nation Building Dapps                             5.00
     Scale-UP Cardano's Community Hubs                 4.92
-    Developer Ecosystem                               4.75
     Climate Change: THE Challenge                     4.75
-    Grow Latin America, Grow Cardano                  4.67
+    Developer Ecosystem                               4.75
     Film + Media (FAM) creatives unite!               4.67
+    Grow Latin America, Grow Cardano                  4.67
     Open Source Development Ecosystem                 4.67
     Grow East Asia, Grow Cardano                      4.61
     Cross-Chain Collaboration                         4.61
@@ -1143,8 +1143,8 @@
     New Member Onboarding                             4.50
     Grow Africa, Grow Cardano                         4.48
     Gamers On - Chained                               4.47
-    Open Standards & Interoperability                 4.44
     Enabling Micro-Summits in 2022                    4.44
+    Open Standards & Interoperability                 4.44
     Distributed Decision Making                       4.42
     Community Advisor Improvements                    4.40
     Distributed Governance                            4.33
@@ -1155,23 +1155,23 @@
     Raising small ghosts, SPOs and devs               4.22
     Accelerate Decentralized Identity                 4.22
     Women of Cardano Involvement                      4.20
-    Grow India, Grow Cardano                          4.17
     Community Events                                  4.17
+    Grow India, Grow Cardano                          4.17
     Self-Sovereign Identity                           4.11
     Business Solutions (B2B & B2C)                    4.11
     Global Sustainable Indep. SPO's                   4.08
     Catalyst Accelerator & Mentors                    4.07
-    Small businesses                                  4.00
     Lobbying for favorable legislation                4.00
+    Small businesses                                  4.00
     IO to the World: Cardano Unchained                4.00
     Grow Turkey Grow Cardano                          3.94
     Open-ended Research                               3.94
     Expand Access to Extend Cardano                   3.93
     GameFi/Metaverse Developer Treasury               3.93
-    Grow NGOs, Grow Cardano                           3.92
     Boosting Diversity in Catalyst                    3.92
-    The Great Migration (from Ethereum)               3.75
+    Grow NGOs, Grow Cardano                           3.92
     Cardanomics                                       3.75
+    The Great Migration (from Ethereum)               3.75
     Cardano Contributors League                       3.73
     Art Beyond NFTs                                   3.67
     Cardano Creatives                                 3.67
@@ -1181,9 +1181,9 @@
     Funding climate opportunities                     3.27
     Climate Change                                    3.25
     Already Approved Project Challenge                3.17
-    👑 Alternatives to Plutocracy 💸                    3.00
     Cardano Challenges                                3.00
     Cardano & Scientific Research                     3.00
+    👑 Alternatives to Plutocracy 💸                    3.00
     Reaching the Business Community                   2.93
     Building a Trust Framework                        2.89
     Banking the "Unbanked"                            2.83
@@ -1199,14 +1199,14 @@
     Reward for Community Translators                  4.83
     Penny Lane Liverpool Philosophy Hub               4.83
     Cardano Technical hub in Vietnamese               4.83
-    Catalyst-Coordinator Hub                          4.78
     Catalyst in Emerging Markets                      4.78
+    Catalyst-Coordinator Hub                          4.78
     Cardano Builders' Hub India                       4.78
     Cardano Mobile Hubs                               4.75
     East Africa Cardano Innovation Hub                4.73
     Cardano Blockchain Lab in Kenya                   4.67
-    Grow MALTA, Grow Europe !                         4.67
     Geneva Business Development Hub                   4.67
+    Grow MALTA, Grow Europe !                         4.67
     Blockchain Learning Center                        4.67
     Cardano4Climate Community Hub                     4.67
     Oxford student hub                                4.62
@@ -1226,20 +1226,20 @@
     Growing Cardano in Ethiopia                       4.20
     Scale up Chinese community- videos                4.08
     Zimbabwe Developers for Cardano                   4.08
-    Lokole Education Centre in DR Congo               4.00
+    2MinReview by Voice for Busy Voters               4.00
     Introducing 100 Cardano Defi in JP                4.00
     University courses                                4.00
-    2MinReview by Voice for Busy Voters               4.00
+    Lokole Education Centre in DR Congo               4.00
     Musicmerge - Decentralized ( Song )               4.00
-    Northeast Argentinian Community                   3.87
     Catalyst Swarm & City Hub Playbooks               3.87
+    Northeast Argentinian Community                   3.87
     ADAcafé - Community Spaces                        3.78
     Aotearoa, New Zealand Hub                         3.75
-    Build out 14 Digital Language Hubs                3.67
-    JP-Regional Revitalization Project                3.67
     CardanoHTX                                        3.67
-    Hardware wallet site / 10meetup JP                3.56
+    JP-Regional Revitalization Project                3.67
+    Build out 14 Digital Language Hubs                3.67
     Detroit + Wada Diaspora Hub                       3.56
+    Hardware wallet site / 10meetup JP                3.56
     African Blockchain Centre for Devs                3.44
     East African Cardano Community Hubs               3.38
     Cardano Hub Caracas                               3.33
@@ -1260,8 +1260,8 @@
     Culture Cubes                                     1.13
      
     ****** F7: Gamers On-Chained ******
-    Social Mobile Game powered by CNFTs               4.92
     IRONSKY PlaytoEarn Milestone of ADA               4.92
+    Social Mobile Game powered by CNFTs               4.92
     Cardano games assets for Unity                    4.89
     Terra Cognita: AI+Blockchain Gaming               4.88
     NFT Game Assets API - [Revelar]                   4.67
@@ -1271,13 +1271,13 @@
     Game Asset Management - [Revelar]                 4.53
     Flooftopia: An Adorable CNFT Game!                4.52
     Cross-NFT Gaming: NFT Fighters                    4.50
-    Game Asset Minting Logic [Revelar]                4.50
     No-Code NFT Generator [Revelar]                   4.50
+    Game Asset Minting Logic [Revelar]                4.50
     Sandbox-MMO for language learning                 4.47
     Game Asset Image Embed [Revelar]                  4.33
     Defiants: Tales of the Ghostchain                 4.22
-    Gamify LacedWhales Twitter bot                    4.22
     Game Asset Analytics [Revelar]                    4.22
+    Gamify LacedWhales Twitter bot                    4.22
     A Moon Based Metaverse on Cardano                 4.22
     Trybbles Blockchain-Enabled AR Pets               4.17
     Adalot the MMO/RPG/ECO-Sim                        4.17
@@ -1317,8 +1317,8 @@
     Eastern Town Hall Language Support                4.80
     Sustainable Hub for All Backgrounds               4.75
     Onboard German Industry !                         4.75
-    2Min Review by Vietnamese Voices                  4.67
     Cardano Center Poland web & socials               4.67
+    2Min Review by Vietnamese Voices                  4.67
     GameChanger: Spanish and Portuguese               4.61
     Cardano Text Resources in Chinese                 4.60
     Cardano in Spanish                                4.60
@@ -1355,12 +1355,12 @@
     ****** F7: Boosting Cardano's DeFi ******
     Innovatio Crowdfunding Launchpad                  4.96
     On-Chain Data Analytics                           4.80
-    Djangui: Local Savings Account Mgmt               4.78
     DeFi+Catalyst🔥 Retroactive Finance                4.78
+    Djangui: Local Savings Account Mgmt               4.78
     Cardano Multi-DEX SDK                             4.78
     DeFi Crowd Lending & Savings                      4.67
-    RainMaker - DeFi to GSM (WADA)                    4.56
     Carbon as DeFi Asset | BlockCarbon                4.56
+    RainMaker - DeFi to GSM (WADA)                    4.56
     MLabs DTF (Dao-Traded-Fund)                       4.49
     Free Oracle Community Price Feeds                 4.47
     P2P Currency Exchange with DEFI                   4.44
@@ -1404,8 +1404,8 @@
     DID for Cardano Indonesia Community               4.79
     Hyperledger-Prism Interoperability                4.78
     Open Source Credential Wallet                     4.78
-    PACE: Skills credentials                          4.75
     DID Application Blueprint                         4.75
+    PACE: Skills credentials                          4.75
     Fair Supply Chain in Ghana                        4.67
     Cardano Interop NOW                               4.60
     Dev Journey into DID/SSI* Paradigm                4.58
@@ -1417,31 +1417,31 @@
     Win-Win Prism DID Integration                     4.46
     P2P Transactions based on Trust                   4.33
     Students dropping out of college                  4.20
-    Visual DID & Credential Builder                   4.17
     Open Source Social Account Verifier               4.17
+    Visual DID & Credential Builder                   4.17
     DID for the Masses                                4.08
     DWill - Cardanos Digital Testament                4.08
+    Atala Japanese Translation ＆ CNFT                 4.00
     SOIL: BITs                                        4.00
     Edu-to-action DAO squads                          4.00
-    Atala Japanese Translation ＆ CNFT                 4.00
     Trustful Fundraising Campaigns                    4.00
     Open Source Identity Wallet                       3.92
     Medical Industry Credential System                3.89
     Self Governed Gaming [Revelar+Duo]                3.87
     Bottom-up land registration(Zambia)               3.78
     Government Trust Frameworks                       3.73
-    Cardano Circular Economy Ecosystem                3.67
     Make Atala Prism DID THE Standard                 3.67
+    Cardano Circular Economy Ecosystem                3.67
     Recruitment utilising Atala PRISM                 3.58
     Verifiable Credentials Tree                       3.56
     Agricultural Marketplace + Atala                  3.48
     Traveler Identity                                 3.33
-    DIDs for Health Records                           3.25
     Pioneer Program Kick-Off In Person                3.25
+    DIDs for Health Records                           3.25
     Atala PRISM tools for web apps                    3.22
     Cardano for Global Health Supply                  3.11
-    Web 3.0 user profile (web avatar)                 3.00
     Building a Network of Trust                       3.00
+    Web 3.0 user profile (web avatar)                 3.00
     Global Identity and Authentication                2.92
     DII-Smart Contracts interactions                  2.75
     DIDs for Cities                                   2.67
@@ -1512,9 +1512,9 @@
     Mobilize NFT groups via DAO tooling               3.89
     Littlefish Foundation Kiva-like DAO               3.89
     KONMA DAO                                         3.72
-    DAO Displays for Public Spaces                    3.67
-    DAO smart contract templetizaiton                 3.67
     Wada Preserving Culture: NFT -> DAO               3.67
+    DAO smart contract templetizaiton                 3.67
+    DAO Displays for Public Spaces                    3.67
     Woolly Mammoth de-extinction D₳O                  3.58
     ₳GOV: URL Conversations                           3.56
     Creating Cardano DAO Infrastructure               3.44
@@ -1564,9 +1564,9 @@
     Open Data Public Notary                           4.56
     Universal Tourism Payment System                  4.50
     Vaccine Management Platform + APIs                4.44
-    Landano: Cardano land registry Dapp               4.33
     Regulation/legislation as code repo               4.33
     Lost |&| Found                                    4.33
+    Landano: Cardano land registry Dapp               4.33
     NFT for food value chain resilience               4.17
     Personal Identity Management                      4.11
     Community Pharmacy System                         4.08
@@ -1612,9 +1612,9 @@
     6-Wk Crypto Bootcamp + VC Demo Day                4.00
     Symbiotic Catalyst Accelerator                    3.93
     Accelerator, Demo day, VC Capital                 3.89
-    Application Portfolio Assessment                  3.78
-    Social Design Academy (Adagov/SDA)                3.78
     Impact innovation accelerator                     3.78
+    Social Design Academy (Adagov/SDA)                3.78
+    Application Portfolio Assessment                  3.78
     Catalyst Community Accelerator                    3.67
     Boost impact projects with Catalyst               3.50
     Distributed Digital ID SharkTank                  3.33
@@ -1636,8 +1636,8 @@
     Staking Pool as a Service                         4.47
     Community Pool Network                            4.47
     ADAPlus - Pool Market                             4.33
-    DAO-NET: SPO DAO                                  4.33
     Cardanobi.io                                      4.33
+    DAO-NET: SPO DAO                                  4.33
     SPO Training Lab in Uganda                        4.22
     The Littercoin Stake Pool                         4.11
     Cardano DID Community SPO                         4.11
@@ -1649,10 +1649,10 @@
     Raspberry /SPO Project                            3.44
     Milkomeda SPO validator training                  3.42
     Fair Stake Pool Selection                         3.27
-    SPO & trading in Cardano ecosystem                2.89
     Discounted Services for Delegation                2.89
-    SPO as anti-Climate Change vehicle                2.22
+    SPO & trading in Cardano ecosystem                2.89
     Token Minting Service                             2.22
+    SPO as anti-Climate Change vehicle                2.22
     SOIL: PRISM Pools                                 2.08
     Tokenized Stake Tracking                          1.57
     Carbon Credit Methodology                         1.50
@@ -1664,12 +1664,12 @@
     Localize Yoroi for Vietnam market                 5.00
     Fund7Proposals + SDGs - Cardano AIM               4.89
     NFT Based Authentication                          4.80
-    Proposal Framework Tool - AIM                     4.78
     GMBL Turning Dev > Blockchain Devs                4.78
+    Proposal Framework Tool - AIM                     4.78
     Ledger Live Integration                           4.72
     Blace.io: Marketplace Creator ⚡                   4.67
-    Flutter SDK                                       4.67
     Open-sourcing Blockfrost API                      4.67
+    Flutter SDK                                       4.67
     GameChanger CLI: ready2use outputs                4.33
     PAB Container Log Processor                       4.33
     NFT-authorized NFT-minter contract                4.25
@@ -1714,8 +1714,8 @@
     Receipt Wallet                                    2.33
     Decentralised Dating Application                  2.11
     ODEURADA                                          1.89
-    Cardano Discord Integration                       1.67
     QR Code NFT Distribution Tool                     1.67
+    Cardano Discord Integration                       1.67
     Indigo NFT for Sustainable Fashion                1.44
     Native Collections (CNFT Pinterest)               1.27
     Flat Rules Based Abstracted P2P Net               1.06
@@ -1726,8 +1726,8 @@
     Stakeboard: Social Staking Platform               4.73
     SPOs Supporting Community Projects                4.56
     A world map of green Cardano                      4.56
-    Marketing Training for African SPOs               4.44
     Mission& Vision driven SPO Networks               4.44
+    Marketing Training for African SPOs               4.44
     Easy Node Deployment - [Revelar]                  4.39
     Pre-installed stakepool boxes                     4.33
     Stake Pool Key Documentation                      4.33
@@ -1767,13 +1767,13 @@
     Transforming Regulatory Risks                     4.61
     Survey+Lobbying of Japanese Law                   4.48
     Colombian Congress Cardano                        4.39
-    Crypto4Europe advocacy in Brussels                4.00
     Network of policy advocates                       4.00
+    Crypto4Europe advocacy in Brussels                4.00
     The Immutable Research Institute                  3.81
     Friends of Cardano (US Chapter)                   3.78
     Legal Framework for ICOs in US                    3.76
-    Focus on MiCA regulation in the EU                3.67
     Study and Pilot in Colombia                       3.67
+    Focus on MiCA regulation in the EU                3.67
     Crypto regulations in India                       3.44
     United States Of Crypto                           3.33
     Lobby Ethiopia                                    3.24
@@ -1816,8 +1816,8 @@
     P2P:Trade Cardano tokens with Cash                4.67
     Konma Labz                                        4.42
     Build NFT liquidity pools                         4.33
-    AVOUM on Cardano                                  4.27
     Community Consultancy: Tokenomics                 4.27
+    AVOUM on Cardano                                  4.27
     Cardano-Cosmos IBC Bridge                         3.67
     300 Plutus Trained Women by 2025                  3.67
     Infinity Financial Operating System               3.56
@@ -1852,130 +1852,131 @@
   <summary>Click to show</summary>
 
     ****** F8: DApps and Integrations ******
-    Done Collectively Discord Integrati               5.00
     BWORKs - Smart contract HR platform               5.00
+    Done Collectively Discord Integrati               5.00
     Cardano Beam - GPS based Assets                   5.00
     cBilling - Cardano Billing DApp                   4.93
     Control your data w Profila part 2                4.92
+    PeakChain Carsharing Platform                     4.92
+    StreamCardano: serverless infra                   4.83
     Oracle Developer Portal                           4.83
-    Anonymity/data control ZKT (part 2)               4.83
-    HYDRA for mashup, co-authors and ©️               4.78
     Neuro tools for teams & growth                    4.78
-    DirectEd - Donations dApp                         4.77
+    HYDRA for mashup, co-authors and ©️               4.78
+    Anonymity/data control ZKT (part 2)               4.78
+    DirectEd - Donations dApp                         4.75
     Aedou, Learn Languages Together (2)               4.75
     Carbon Marketplace and Exchange                   4.75
     ADA-DESO Templates to Test dApps                  4.73
-    StreamCardano: serverless infra                   4.73
-    PeakChain Carsharing Platform                     4.67
+    Proposer-tool on chain - AIM                      4.73
     Liquidity Aggregator for Cardano                  4.67
-    Win-Win Platform Auditing                         4.67
-    Proposer-tool on chain - AIM                      4.67
     Artificial Intelligence/ML API DApp               4.67
+    Win-Win Platform Auditing                         4.67
     Littlefish - Coordinating Action                  4.67
-    smART Mint: DIY evolving NFTs                     4.67
+    DAO-NET: Voting Dapp                              4.67
     StakingDAO: Supporting Small Pools                4.67
+    smART Mint: DIY evolving NFTs                     4.67
     How often can a brand contact you?                4.58
     Crowdfunding with inbuilt mediation               4.58
-    C64 Extension Wallet                              4.58
     Fiverr Clone on Cardano                           4.58
+    C64 Extension Wallet                              4.58
     Tangopay (Merchant Payments)                      4.56
-    Uber of 3D Printing Manufacturing                 4.56
     Adatar.me Address Book                            4.53
     NFT Platform for business cases                   4.53
-    Company privacy ledger (GDPR, CCPA)               4.53
-    PubWeave: An academic ecosystem                   4.50
+    PubWeave: An academic ecosystem                   4.47
     Thrift Mobile                                     4.47
+    Uber of 3D Printing Manufacturing                 4.47
     Fiat Payments for NFTs - Revelar                  4.44
     Watts->Social network of Trust MVP                4.42
-    Medusa Wallet                                     4.42
+    Company privacy ledger (GDPR, CCPA)               4.42
     EternalSwap: Perpetual contract DEX               4.42
     ALLIN Betting DAO                                 4.42
-    Clarity DAO Incubator                             4.35
+    Medusa Wallet                                     4.42
+    dApp Market for Tickets and Events                4.40
+    Clarity DAO Incubator                             4.36
+    Urban Farmer dApp                                 4.33
     Rarety.io : Multi-Sig NFT Launchpad               4.33
     Private Gated NFTs - Revelar                      4.33
-    Urban Farmer dApp                                 4.33
     OpenScience Marketplace Scale-up                  4.33
-    dApp Market for Tickets and Events                4.33
-    Metaverse Builder with NFT Boosting               4.33
     Escrow Smart Contract for dApps 🔥                 4.33
+    Metaverse Builder with NFT Boosting               4.33
     Research Guild: DApp Snapshot                     4.33
     Perma-music rmNFT Marketplace                     4.25
     Artverse - Social Media Metaverse                 4.22
     Innovatio Web-App Investigation                   4.22
+    Self-hosted pricefeed for wallets                 4.20
     Revelar Game Engine - Operations                  4.20
     Contracts as a Service                            4.17
     Decentralized Auction Platform                    4.17
-    Decentralized Metaverse Mall - DMM                4.14
+    Decentralized Token Distribution                  4.11
+    Decentralized Metaverse Mall - DMM                4.11
     Bring Ethereum NFT users to Cardano               4.08
-    Decentralized Token Distribution                  4.08
     TheGraph in Milkomeda                             4.07
-    DAO-NET: Voting Dapp                              4.07
     Aeros - Airmiles Wallet integration               4.06
-    Self-hosted pricefeed for wallets                 4.00
     JobFair platform on Cardano                       4.00
-    Cardax DEX Plutarch Code Audit                    4.00
     ADAmint Fractionalized NFT Exchange               4.00
-    d-Cargo: Decentralized Cargo Dapp                 3.95
-    FreeLoaderz Token & NFT Distributor               3.94
-    Okos: Monetizing your Intellect                   3.93
+    Decentralized Music Platform                      3.94
     Cardano/Lokole Network integration                3.93
     Ubuntu - One Small Town Ecosystem                 3.92
+    Okos: Monetizing your Intellect                   3.92
     ADA to Mobile Money App                           3.89
-    Decentralized Music Platform                      3.87
-    Adatar.me to NFT                                  3.80
+    Carbonno - Carbon Exchange dApp                   3.83
     Ada NFT Marketplace for the unsung                3.78
     beeDAO                                            3.78
+    Cardax DEX Plutarch Code Audit                    3.75
+    Divine Blockchain - Phase I                       3.75
+    Adatar.me to NFT                                  3.75
     Keyword Coin Price Widget for Sites               3.75
-    Divine Blockchain - Phase I                       2.83
     shac.ai - Shared Housing & Cardano                3.75
+    d-Cargo: Decentralized Cargo Dapp                 3.73
     Alternative Payment for Merchants                 3.73
+    FreeLoaderz Token & NFT Distributor               3.73
     Crowd funding platform with ADA.                  3.72
-    Impact Creating NFTs for Causes                   3.67
     MUSEVERSE: Music into the Metaverse               3.67
+    Impact Creating NFTs for Causes                   3.67
     Cardano Smart Students DApp                       3.67
     Online Makerspace                                 3.58
     Book NFT Marketplace On Cardano                   3.58
     Decentralized LinkedIn, Link Start                3.56
     Decentralized Physics Tokenomics                  3.53
     Rythmeet:P2P music network platform               3.50
-    ARTEM: NFT/Token Gallery Extension                3.50
     Wildlife Conservation Pool DApp                   3.50
-    Cardahub-One Stop Shop for CNFT                   3.44
+    ARTEM: NFT/Token Gallery Extension                3.50
     NFT exhibition space in Cardano                   3.44
     Milkomeda Mobile                                  3.42
-    Fundraising platform for NGO's                    3.39
+    Cardahub-One Stop Shop for CNFT                   3.41
     Finance DAO dApp + Stakepool Web3                 3.39
     AMY Music DAO- Decentralize Economy               3.38
-    ESTATI - real estate investments                  3.33
     NFT Bids - Powered by Balou                       3.33
+    ESTATI - real estate investments                  3.33
     Reward creators for feed activity                 3.33
-    Carbonno - Carbon Exchange dApp                   3.33
     Account authentication                            3.33
-    MADAO: Mutual Aid DAO User Client                 3.33
     AI Career Mentor DApp                             3.28
+    MADAO: Mutual Aid DAO User Client                 3.28
     Ferrum's Staking as a Service MS1&2               3.27
     P2P Fiat Exchange [cardway.finance]               3.27
-    Universal Basic Income DAO                        3.20
+    ADIUVAT: Find your place.                         3.25
     LOOZR                                             3.20
-    Ferrum's Staking as a Service MS3&4               3.17
+    Universal Basic Income DAO                        3.20
     NFT Multiverse Marketplace                        3.17
+    Ferrum's Staking as a Service MS3&4               3.17
+    Fundraising platform for NGO's                    3.13
     Cardano's 1st Food NFT Marketplace                3.11
     De. Application and Tender filing                 3.07
     Token Staking Platform                            3.05
     Cardano Rewards Program                           3.00
     Live streaming Music NFTMarketplace               2.94
     Basketo Finance                                   2.93
-    DeFi hackathon                                    2.83
-    Create Cardano App                                2.78
     Coupon Application "Couponium.io"                 2.73
     STOR Token White Paper                            2.61
     Shimmy - Safe, Purposeful Social                  2.60
     Sustainable Apparel Trace demo                    2.47
     Self-Sovereign Health Records                     2.44
+    Create Cardano App                                2.40
     NFT'hics                                          2.33
+    Integrate Assets & Debt into ADA                  2.33
     Matrix Development Integrations                   2.33
-    Integrate Assets & Debt into ADA                  2.27
     Decentralized Social Network                      2.22
+    DeFi hackathon                                    2.11
     Music live NFT platform                           2.08
     Layer 2 Advanced Architecture                     1.94
     NFT marketplace enabling P2P DeFI                 1.75
@@ -1983,152 +1984,182 @@
     One Vote                                          1.67
     Phygital Market for Spiritual Art                 1.58
     Drive Secure Community Chat Servers               1.56
-    CardanoLAND                                       1.44
     Cost of listing on an exchange.                   1.40
     Milkomeda Game                                    1.39
     Integrating Python & NFT usability                1.33
-    Chatting Dapp using Blockchain                    1.33
+    Chatting Dapp using Blockchain                    1.20
+    CardanoLAND                                       1.17
     Collatz conjecture in C#                          1.00
      
-    ****** F8: Grow Africa, Grow Cardano ******
-    Inc. Train the Trainer Africa MVP                 4.92
-    Win-Win South Africa Expansion                    4.73
-    Catalyst Africa Town Hall (CATH)                  4.65
-    Mentoring Africa to Success                       4.64
-    The Africa Catalyst School                        4.62
-    Cardano for African impact ventures               4.57
-    100+ Plutus Trained Women                         4.56
-    The Future of Cardano is African                  4.53
-    Grow Wada, Grow Cardano                           4.52
-    Decentralize Impact                               4.50
-    Education Material for Workshops                  4.48
-    ISIG-GOMA Cardano Hub                             4.44
-    Duo - Afrikaans Gameplay                          4.42
-    Boosting Cardano In South Africa                  4.42
-    Hackathon and Internship Program                  4.40
-    Healthcare Developers Onboarding                  4.33
-    African P2P Energy Sharing Dapp                   4.33
-    Cardano and Smart City Awareness                  4.29
-    Mass Cardano Education for Students               4.28
-    Wildlife Conservation NFTs                        4.27
-    Accel. Train the Trainer Africa MVP               4.25
-    Train 100 Math Teachers in Africa                 4.22
-    Flood Africa with Cardano                         4.21
-    Leapfrogging Industrialization                    4.20
-    Cardano to Portuguese-speak Africa                4.19
-    Cardano For Ugandan Universities                  4.17
-    Networking Events Africa Extended                 4.14
-    CATALYST RESOURCE IN SWAHILI                      4.10
-    Protecting wildlife & Maasai, Kenya               4.08
-    CARDANO FRENCH COMMUNITY IN DRC                   4.08
-    Bridging the Food Security gap                    4.03
-    Tokenized Security Exchange                       4.00
-    Translate no-code SSI to Swahili                  4.00
-    Cardano University Seminar                        3.88
-    CardanoOutreach - Africa Focus                    3.87
-    Cardano for Women in Africa                       3.79
-    Children write African Stories                    3.77
-    Employment Credentials in Zanzibar                3.75
-    Cardano based data collection tool                3.58
-    Cardano Tech Training in Malawi                   3.56
-    ADA water solutions in Africa                     3.50
-    Empower 400 marginalized girls                    3.50
-    East Africa Cardano Innovation Hub                3.47
-    Translate Pool Peek mobile: French                3.38
-    Translate Pool Peek Mobile: Swahili               3.33
-    Grow Ethiopian cardano community                  3.29
-    Tinypesa                                          3.29
-    LEVERAGING NETWORKS IN AFRICA                     3.25
-    Community Driven Volunteering                     3.22
-    Cardano Capacity Building Program                 3.17
-    Cardano tokens in loyalty programs                3.11
-    Connect the unconnected through art               3.10
-    ADAxie Eternity in Africa                         2.67
-    Sustainable Energy For All Africa                 2.61
-    DemeterGift                                       1.91
+    ****** F8: Business Solutions (B2B & B2C) ******
+    Merchandise Store pricing in ADA                  4.92
+    Grow Rural Business                               4.83
+    BWORKs - Pay As Done Works Platform               4.83
+    Decentralized AI Drug Development                 4.81
+    1,000+ projects on Interactive Map                4.78
+    Traceable Reward currency (FLORAS)                4.78
+    Cardano Recycling DApp                            4.77
+    Research Guild: Business Report                   4.75
+    Bridge Builders Operations                        4.72
+    PeakChain Fleet Management Platform               4.67
+    Agora: Plutus governance module                   4.67
+    DLT360: Agriculture and Metaverse                 4.67
+    Logyq Protocol: blockchain tracking               4.67
+    DLT360: China Industry Applications               4.61
+    Migrate nano-credits to Cardano                   4.59
+    Cardano Solutions for Impact                      4.58
+    DAO-NET: DAO Token Market                         4.58
+    Growing Cardano’s Small Businesses                4.57
+    Real world smart contract use case                4.56
+    DLT360: CPG Brands and Metaverse                  4.53
+    Cultural Tourism - Beyond Borders                 4.53
+    $272Bn Carbon Credits on Cardano                  4.53
+    Profila launches DeMar (Part 1)                   4.47
+    R&D for mental health credentials                 4.47
+    Realworld business process use case               4.47
+    AI Mentor matching software                       4.46
+    Fetachain - IIoT Cardano Framework                4.44
+    Help2Health: Cardano + Citaldoc                   4.42
+    NFTPass: NFT Ticketing Solution                   4.42
+    DLT360: Machines and the Metaverse                4.40
+    Blockchain Innovation Hub Finland                 4.40
+    Increase Project's Investor Appeal                4.33
+    Decentralized Trading and Finance                 4.33
+    Cardano ERP (CERP)                                4.33
+    DLT360: Business RADAR Team                       4.33
+    Adaglass Data Intelligence Platform               4.27
+    Bonfire - Scheduling dApp 🔥                       4.27
+    ESG-Compliant Enterprise Staking                  4.25
+    Data Marketplace & Exchange Dapp                  4.23
+    Community Lead Generation                         4.22
+    Enterprise Operating System                       4.20
+    Expands to 1000cities JP[PointSyst]               4.20
+    Honeybees on Blockchain                           4.20
+    Web3 Commerce and Finance dApp                    4.13
+    Product Tracing on Cardano                        4.13
+    Clinical trials patient recruitment               4.08
+    SPO Dashboard for Delegators                      4.00
+    Rental Marketplace on Cardano                     4.00
+    B2C Trade for Life ❤                              4.00
+    Soil Carbon Sequestration Audit                   4.00
+    NFT Vinyls paying musicians forever               3.94
+    Proof of provenance whitepaper                    3.93
+    Licensing Remixed Music On-Chain                  3.92
+    Business on the Blockchain in MIAMI               3.90
+    Invoice Finance DeFi Platform - CR2               3.89
+    Crypto banking                                    3.83
+    Barter exchange on Cardano                        3.83
+    Employment Credentials on PRISM                   3.78
+    Book NFTs - Transforming Publishing               3.78
+    DROP: Creative NFT solution (B2B)                 3.76
+    Unified Transport Payment Gateway                 3.56
+    Checkpoint Metaverse                              3.53
+    Smart Contracts: Royalty Payments                 3.39
+    KONMA- A Web3 Marketplace                         3.38
+    B2B Food Recipes NFT Marketplace                  3.33
+    NFT Speakeazy Hospitality Growth                  3.33
+    @energiasocial powered by cardano                 3.33
+    Industry 4.0 On-chain Platform                    3.25
+    Communal Marketing Spaces                         3.22
+    Open by default stock market                      3.19
+    GIVE BUSINESSES THE TOOLS NEEDED!                 3.17
+    NITI: a new design for exchanges                  3.13
+    SUAN Early carbon removal market                  3.07
+    Healthcare & Wellness Marketplace                 3.00
+    Green Energy Decentralisation                     2.94
+    B2B Dinner Series by MikeBettsCook0               2.93
+    Rondevoo                                          2.83
+    Disruptive Produce Ecosystem                      2.72
+    Adulis Digital Asset Exchange                     2.50
+    Coaching for Catalyst Members                     2.27
+    MinConnect                                        2.25
+    Affordable Real Estate Investments                2.19
+    Cotalker integration                              1.58
+    Medical Research based ADA                        1.38
+    Spring water solutions for Africa                 1.33
      
     ****** F8: Open Source Development Ecosystem ******
-    Plutarch: typed eDSL in Haskell                   5.00
     IRI: Cardano & Urbit Hackathon                    5.00
+    Plutarch: typed eDSL in Haskell                   5.00
     PHP SDK for Blockfrost.io                         5.00
     Reference Inputs SDK ▶ MLabs+Orcfax               5.00
     LATAM Cardano Community Operations                4.94
     Catalyst Circle - Funding Mechanism               4.94
     Catalyst Swarm Operations                         4.90
     Catalyst GPS                                      4.89
+    Cardanobi.io                                      4.87
     Low Cost Node Hardware - Revelar                  4.83
     NFT Swap Infrastructure Templates 1               4.83
-    Empower thru Project Based Learning               4.83
     Flutter SDK                                       4.83
     Done Collectively Gitbook Integrati               4.83
+    Empower thru Project Based Learning               4.83
     Automate, Educate, Communicate                    4.83
     OpenSource Quadratic Voting Funding               4.81
     ADA Pay Plugin - Wordpress/Laravel                4.81
-    Adatar.me Website Widget                          4.78
     Blace.io: Marketplace Creator ⚡                   4.78
-    Batch tx generator for cardano-cli                4.76
+    Cardano Tools & Software for ARM                  4.78
+    Adatar.me Website Widget                          4.78
     Funding Categories Analysis                       4.75
+    Batch tx generator for cardano-cli                4.72
     Learn token engineering🥕elements                  4.72
-    Cardano Tools & Software for ARM                  4.71
-    Circle Governance & Administration                4.67
+    Youth Block Open Source Education                 4.67
     Open Source Collaboration Platform                4.67
-    Cardanobi.io                                      4.61
     Fund8Proposals + SDGs - Cardano AIM               4.60
     Open Source Play-To-Earn - Revelar                4.56
     Bring Cardano to the web with Vite                4.56
-    .NET CardanoSharp – Deserialization               4.53
     Proposal Framework Tool - AIM                     4.53
+    .NET CardanoSharp – Deserialization               4.53
     ADAO Summon: DAO Incubator                        4.50
+    Circle Governance & Administration                4.50
     Catalyst Treasury Guild                           4.50
+    .NET Blazor Web wallet Support                    4.50
     Plutus Project-Based Learning                     4.48
+    MLabs - Spec DSL for dApp Security                4.46
     Cardano wallet recovery CLI                       4.44
-    Catalyst Streaming Guild                          4.43
-    CardanoPlusPlus, a C++ Library                    4.43
-    MLabs - Spec DSL for dApp Security                4.43
     Plutus-extra: Plutus helper library               4.40
-    .NET Blazor Web wallet Support                    4.40
-    Youth Block Open Source Education                 4.33
+    Catalyst Streaming Guild                          4.39
+    StakingDAO: DAO Tools & Scripts                   4.33
+    CardanoPlusPlus, a C++ Library                    4.33
     User friendly NFT minting feature                 4.28
     Cardano-Tools Python Library                      4.28
     Procedural 3D assets generator                    4.27
-    StakingDAO: DAO Tools & Scripts                   4.25
     Open API for Adatar.me                            4.25
     Transaction resubmitter daemon                    4.25
-    PanDAO Focus on Treasury Management               4.22
-    Smart Contract Library - Phase 1                  4.20
+    Catalyst Swarm Media&Marketing Lab                4.25
+    DAO-NET: Development Funder                       4.22
     Open Source Translate 2 Earn Webapp               4.20
     ADAO-Multi-sig Wallet Web Interface               4.17
+    Smart Contract Library - Phase 1                  4.17
+    PanDAO Focus on Treasury Management               4.17
     Delivery Tracking via NFTs                        4.13
     Android SDK                                       4.13
     SAF Simple Application Framework                  4.13
     NFT Verification Tool                             4.11
     Contributor Infrastructure Analysis               4.08
-    Catalyst Swarm Media&Marketing Lab                4.07
-    Open Smart Contract Library                       4.01
+    Open Smart Contract Library                       4.02
     Basis Cost Block Reward Accounting                4.00
     Milkomeda docker fullnode setup                   4.00
+    Cardano development library in C++                4.00
     Cardano Rust SDK Babbage                          4.00
     Distributed Idea Mapping System                   4.00
+    Earn incentives by contributing                   4.00
     Tarax: a news and media DAO                       3.93
-    DAO-NET: Development Funder                       3.92
-    Cardano development library in C++                3.92
     Onboard Freelancers to any projects               3.89
     db-sync replacement in Oura                       3.80
     Broaden open source wallet options                3.76
-    Earn incentives by contributing                   3.67
     CNFTfolio #CNFTs Portfolio Tracker                3.60
     Gnosis Safe UI                                    3.58
     PCDiscord - Social Media Automation               3.58
-    Mobile In-App Wallet (RN) 🔥                       3.52
-    Ambassadors Guild Operations                      3.33
     NFT Guild: Cardano NFT Reports                    3.33
+    Ambassadors Guild Operations                      3.33
     Open Data Lake Blueprint                          3.33
-    ADATOMS HQ Science & DeFi Dec. Ed.                2.81
+    Mobile In-App Wallet (RN) 🔥                       3.28
     Open Source d-edTech For LatAm                    3.25
     Organization membership mgmt                      3.22
     Developers Open Sourced Licensing                 3.13
+    ADATOMS HQ Science & DeFi Dec. Ed.                3.11
     Decentralized Community Chat Server               3.08
-    ALLIN Oracle Data AI                              3.05
+    ALLIN Oracle Data AI                              3.06
     Interest free stablecoin protocol                 2.94
     FOSS funding mechanism to save 🌍                  2.83
     Enable Cardano DAO for new users                  2.78
@@ -2139,288 +2170,189 @@
     Coaching Transforms your Life App                 1.33
     Research into left pendulum swings                1.00
      
-    ****** F8: Business Solutions (B2B & B2C) ******
-    Merchandise Store pricing in ADA                  4.92
-    BWORKs - Pay As Done Works Platform               4.85
-    Decentralized AI Drug Development                 4.81
-    Traceable Reward currency (FLORAS)                4.78
-    Cardano Recycling DApp                            4.74
-    Bridge Builders Operations                        4.72
-    1,000+ projects on Interactive Map                4.67
-    PeakChain Fleet Management Platform               4.67
-    Logyq Protocol: blockchain tracking               4.67
-    DLT360: Agriculture and Metaverse                 4.67
-    Agora: Plutus governance module                   4.67
-    DLT360: China Industry Applications               4.61
-    Grow Rural Business                               4.60
-    Migrate nano-credits to Cardano                   4.59
-    DAO-NET: DAO Token Market                         4.58
-    Cardano Solutions for Impact                      4.58
-    Cultural Tourism - Beyond Borders                 4.57
-    Growing Cardano’s Small Businesses                4.57
-    Real world smart contract use case                4.56
-    DLT360: CPG Brands and Metaverse                  4.56
-    Research Guild: Business Report                   4.53
-    $272Bn Carbon Credits on Cardano                  4.53
-    DLT360: Machines and the Metaverse                4.50
-    Profila launches DeMar (Part 1)                   4.47
-    Realworld business process use case               4.47
-    R&D for mental health credentials                 4.47
-    AI Mentor matching software                       4.46
-    Blockchain Innovation Hub Finland                 4.44
-    Fetachain - IIoT Cardano Framework                4.44
-    Help2Health: Cardano + Citaldoc                   4.42
-    NFTPass: NFT Ticketing Solution                   4.42
-    Decentralized Trading and Finance                 4.33
-    Increase Project's Investor Appeal                4.33
-    Cardano ERP (CERP)                                4.33
-    DLT360: Business RADAR Team                       4.33
-    Enterprise Operating System                       4.28
-    Bonfire - Scheduling dApp 🔥                       4.27
-    Adaglass Data Intelligence Platform               4.27
-    ESG-Compliant Enterprise Staking                  4.25
-    Data Marketplace & Exchange Dapp                  4.23
-    Community Lead Generation                         4.22
-    Expands to 1000cities JP[PointSyst]               4.20
-    Honeybees on Blockchain                           4.20
-    Web3 Commerce and Finance dApp                    4.13
-    Product Tracing on Cardano                        4.13
-    Clinical trials patient recruitment               4.08
-    B2C Trade for Life ❤                              4.00
-    Rental Marketplace on Cardano                     4.00
-    SPO Dashboard for Delegators                      4.00
-    Soil Carbon Sequestration Audit                   4.00
-    Proof of provenance whitepaper                    3.94
-    NFT Vinyls paying musicians forever               3.94
-    Business on the Blockchain in MIAMI               3.92
-    Invoice Finance DeFi Platform - CR2               3.89
-    Crypto banking                                    3.83
-    Barter exchange on Cardano                        3.83
-    Licensing Remixed Music On-Chain                  3.80
-    Book NFTs - Transforming Publishing               3.78
-    Employment Credentials on PRISM                   3.78
-    DROP: Creative NFT solution (B2B)                 3.76
-    Unified Transport Payment Gateway                 3.67
-    Checkpoint Metaverse                              3.53
-    Smart Contracts: Royalty Payments                 3.39
-    KONMA- A Web3 Marketplace                         3.38
-    B2B Food Recipes NFT Marketplace                  3.33
-    NFT Speakeazy Hospitality Growth                  3.33
-    @energiasocial powered by cardano                 3.33
-    Industry 4.0 On-chain Platform                    3.25
-    Communal Marketing Spaces                         3.22
-    Open by default stock market                      3.19
-    Healthcare & Wellness Marketplace                 3.14
-    NITI: a new design for exchanges                  3.13
-    SUAN Early carbon removal market                  3.07
-    Green Energy Decentralisation                     2.94
-    B2B Dinner Series by MikeBettsCook0               2.93
-    GIVE BUSINESSES THE TOOLS NEEDED!                 2.93
-    Rondevoo                                          2.83
-    Disruptive Produce Ecosystem                      2.72
-    Adulis Digital Asset Exchange                     2.50
-    Coaching for Catalyst Members                     2.27
-    MinConnect                                        2.25
-    Cotalker integration                              1.58
-    Medical Research based ADA                        1.38
-    Spring water solutions for Africa                 1.33
+    ****** F8: Grow Africa, Grow Cardano ******
+    Inc. Train the Trainer Africa MVP                 4.89
+    Win-Win South Africa Expansion                    4.73
+    Catalyst Africa Town Hall (CATH)                  4.67
+    Decentralize Impact                               4.67
+    Grow Wada, Grow Cardano                           4.67
+    Mentoring Africa to Success                       4.64
+    The Africa Catalyst School                        4.61
+    Cardano for African impact ventures               4.60
+    100+ Plutus Trained Women                         4.56
+    The Future of Cardano is African                  4.54
+    Education Material for Workshops                  4.50
+    Lokole/Cardano community Networks                 4.40
+    ISIG-GOMA Cardano Hub                             4.40
+    Mass Cardano Education for Students               4.33
+    Healthcare Developers Onboarding                  4.33
+    Duo - Afrikaans Gameplay                          4.33
+    Boosting Cardano In South Africa                  4.33
+    African P2P Energy Sharing Dapp                   4.33
+    Hackathon and Internship Program                  4.33
+    Cardano and Smart City Awareness                  4.29
+    Wildlife Conservation NFTs                        4.27
+    Cardano to Portuguese-speak Africa                4.23
+    Leapfrogging Industrialization                    4.20
+    Networking Events Africa Extended                 4.17
+    Flood Africa with Cardano                         4.17
+    Cardano For Ugandan Universities                  4.17
+    CATALYST RESOURCE IN SWAHILI                      4.14
+    Train 100 Math Teachers in Africa                 4.13
+    Accel. Train the Trainer Africa MVP               4.11
+    Protecting wildlife & Maasai, Kenya               4.08
+    Bridging the Food Security gap                    4.06
+    Tokenized Security Exchange                       4.00
+    CARDANO FRENCH COMMUNITY IN DRC                   4.00
+    Translate no-code SSI to Swahili                  4.00
+    Children write African Stories                    3.96
+    CardanoOutreach - Africa Focus                    3.87
+    Employment Credentials in Zanzibar                3.75
+    Cardano University Seminar                        3.71
+    Cardano for Women in Africa                       3.64
+    Cardano based data collection tool                3.58
+    Cardano Tech Training in Malawi                   3.56
+    Translate Pool Peek mobile: French                3.50
+    Empower 400 marginalized girls                    3.50
+    ADA water solutions in Africa                     3.50
+    East Africa Cardano Innovation Hub                3.47
+    Tinypesa                                          3.39
+    Community Driven Volunteering                     3.33
+    Grow Ethiopian cardano community                  3.28
+    LEVERAGING NETWORKS IN AFRICA                     3.25
+    Translate Pool Peek Mobile: Swahili               3.21
+    Cardano Capacity Building Program                 3.17
+    Cardano tokens in loyalty programs                3.00
+    Connect the unconnected through art               2.87
+    ADAxie Eternity in Africa                         2.72
+    Sustainable Energy For All Africa                 2.61
+    DemeterGift                                       1.81
      
     ****** F8: Miscellaneous Challenge ******
+    SPO Incubator Rollout                             5.00
     Indigo MetAcademy                                 4.92
-    SPO Incubator Rollout                             4.89
+    Restorative Workplace Environment                 4.83
     CatalystCon 2022                                  4.80
     QA-DAO Oversight of Catalyst Circle               4.78
+    Hub Support Services for Proposers                4.78
     knowcardaknow, a marketplace                      4.78
-    Decentralized Physics Simulations                 4.76
     ABC of Governance                                 4.76
-    Hub Support Services for Proposers                4.75
+    Decentralized Physics Simulations                 4.72
     Catalyst Facilitators’ Collective                 4.71
-    DLT360: Smart Internship (6 months)               4.67
+    Project Evaluation Website Ver 1.1                4.67
     Loxe Inc. Web Dev Internship                      4.67
-    Loxe Inc. Plutus Internship Cont.                 4.60
+    DLT360: Smart Internship (6 months)               4.67
+    dTeach - building a donor pool                    4.67
     Who owns the blockchain?                          4.60
+    Loxe Inc. Plutus Internship Cont.                 4.60
     Insight Sharing Workshops - TCS                   4.52
     Young Cardano Entrepreneurs                       4.52
-    dTeach - building a donor pool                    4.50
-    Loxe Inc. Web HR Internship                       4.50
-    Project Evaluation Website Ver 1.1                4.50
     DLT360: Environment RADAR Team                    4.50
+    Loxe Inc. Web HR Internship                       4.50
     Collective Wellbeing via Cardano 🍄                4.47
-    Cardano SAY NO Plastic Straws | C4O               4.42
     CarPool Education/Onboarding System               4.42
     DLT360: Review Catalyst Funnel                    4.40
     Cardano Atlas Project                             4.38
-    Impact Accelerator Rollout                        4.33
+    Cardano SAY NO Plastic Straws | C4O               4.37
     Service Marketplace                               4.33
     ADAView - Simplifying Cardano                     4.33
-    Translate no-code SSI to Spanish                  4.33
-    Adatar.me - Growth Acceleration                   4.33
-    Research Guild: Outlier Report                    4.33
-    Improve Catalyst Search-ability                   4.33
+    Format Of Evaluated Project Process               4.33
+    Impact Accelerator Rollout                        4.33
     Real Journalism = Cardano Insights                4.33
+    Translate no-code SSI to Spanish                  4.33
+    Research Guild: Outlier Report                    4.33
+    Adatar.me - Growth Acceleration                   4.33
+    Improve Catalyst Search-ability                   4.33
     NFT3D Live 3D Interactive Metaverse               4.28
     Wolfram Reimagining DeFi as RealFi                4.27
-    DLT360: WEBSITE & Video - Next Step               4.25
     Cardano Food Forest - Permaculture.               4.25
-    IdeaFest & ChallengeFest by Swarm                 4.24
+    Wifi Infrastructure Paraguay                      4.25
+    DLT360: WEBSITE & Video - Next Step               4.25
     CardanoFeel (Cardano -> Real World)               4.22
-    Format Of Evaluated Project Process               4.22
     DAO-NET & A2T Marketing                           4.22
-    Restorative Workplace Environment                 4.22
+    IdeaFest & ChallengeFest by Swarm                 4.20
     StakingDAO: Sustainable ISPO Tool                 4.17
     University/College Outreach                       4.07
-    Wifi Infrastructure Paraguay                      4.00
     Fundraising the LV Arts District                  3.89
     CardanoOutreach-fund4/6/7 winner                  3.87
     Funding the Growth of Adapulse                    3.83
-    Catalyst Community Accelerator                    3.76
+    Leadership Academy Operations                     3.73
     NFT Search Engine on Cardano                      3.73
-    Link Start, the new social media                  3.67
-    Cardano PR Initiative Japan                       3.67
     Upcoming Events - Cardano Cube                    3.67
-    Cardano Blockchain Brazil MeetupHub               3.67
+    Link Start, the new social media                  3.67
     Cardano Blockchain Insights update                3.67
     PDF - Proud Dirt Farmers - a DAO                  3.67
+    Cardano PR Initiative Japan                       3.67
+    Cardano Blockchain Brazil MeetupHub               3.67
     Cardano Reuse Plastic India Program               3.67
     ❖ Cardano Science on Networks                     3.67
-    Leadership Academy Operations                     3.62
     Educational Platform - Cardano Cube               3.61
+    Catalyst Community Accelerator                    3.61
     Cardano: Solutions for Cannabis                   3.53
     Washing Machines powered by Wastes                3.50
     The Alexandra Project WEB3 Library                3.42
     Cardano Learning Conversations                    3.40
     Courses & Education Crypto MKTPLACE               3.40
     Los Ángeles Cardano Community                     3.37
+    Prevent Attacks on Cardano                        3.29
     A Cardano Impact Ecosystem                        3.25
-    Prevent Attacks on Cardano                        3.22
     Cardano Caribbean                                 3.17
     AdaTickr-Track Your ADAcrypto Price               3.12
-    Decriminalize & Decentralize 🍄🌺☮️                 3.08
-    Milkomeda Hackathon                               3.00
-    Carbon Neutral Hemp Supply-Chain                  3.00
     Clean Water helping, carbon neutral               3.00
+    Milkomeda Hackathon                               3.00
     Solar powered Stakepool Sri Lanka                 3.00
+    Carbon Neutral Hemp Supply-Chain                  3.00
     Project Management - Cardano Cube                 2.90
     ALMAGUA - Every ADA trap CO2                      2.89
     Money Remittance and Lending                      2.87
-    "MINING" educative board game                     2.83
+    Decriminalize & Decentralize 🍄🌺☮️                 2.83
     Charity DAO                                       2.75
+    CNFT Taco Tuesday Food Truck                      2.67
     Uncle Harmony                                     2.58
+    "MINING" educative board game                     2.53
     Digital hub for NGOs & charities                  2.50
-    Affordable Real Estate Investments                2.17
+    Cardano Candy-Pop CNFT Giveaway                   2.42
     EcoSeed                                           2.17
     Smartex                                           2.13
-    Cardano Candy-Pop CNFT Giveaway                   2.13
-    CNFT Taco Tuesday Food Truck                      2.11
-    Aventuras Zooplanktasticas: Comic                 1.89
+    Aventuras Zooplanktasticas: Comic                 2.00
+    Affordable Real Estate Investments                1.92
     Nifty Charities                                   1.87
     Web3Domains.Auction                               1.24
      
-    ****** F8: Scale-UP Cardano's Community Hubs ******
-    C4C Community Hub Operations                      4.83
-    Funded Proposer Sub-Circle                        4.83
-    Eastern Town Hall Team Operation                  4.81
-    China Info Hub Continued- Dumpling                4.80
-    Innovatio Digital HUB                             4.79
-    Science Hub in Argentina                          4.67
-    Cardano Center Poland stage 2 - SPO               4.61
-    Cardano Hubs Directory                            4.61
-    French Haskell + Plutus Curriculum                4.58
-    Knowledge hub for Vietnam and Japan               4.57
-    Oxford Student Hub                                4.57
-    Cardano Center Poland Live                        4.56
-    Cardano Coffee lounge in Vietnam                  4.53
-    Cardano Community in Geneva                       4.52
-    Townhall Channel in Vietnamese                    4.51
-    Liverpool Cardano Philosophy Hub                  4.50
-    Cardano Incredible Race - 2022                    4.50
-    Haskell Course for Vietnamese                     4.50
-    TADATek Insights                                  4.50
-    Cardano Kiosk | Hub-in-a-box                      4.48
-    Automated Multilingual Tool                       4.47
-    Model ICT Hub for Deprived Students               4.43
-    Cardano Information Centre                        4.40
-    Cardano Blockchain Buenos Aires Hub               4.38
-    Uganda Business & Technical Hub                   4.33
-    Growing Cardano’s Ecosystem                       4.33
-    French West Africa Outreach                       4.29
-    Community Hubs Impact Accelerator                 4.33
-    FIMI-Vietnamese Cardano Talk                      4.31
-    Cardano Hub Indonesia-Video Series                4.30
-    Cardano Baltic Startup Hub                        4.17
-    Cardano Hub TAIWAN                                4.14
-    C4S - Cardano for Seniors Hubs                    4.14
-    Blockchain Learning Center + Coffee               4.13
-    Australian University Cardano Talks               4.10
-    CardanoCommunityHubs.com Worldwide                4.08
-    SalmonNation Decentralized Alliance               4.00
-    Sustainable Solution Hub                          4.00
-    Networking Events LatAm EXT                       4.00
-    Cardano Stonerz Club Community Hub!               3.96
-    2Min Review by Voice for Busy Voter               3.94
-    Cardano Kids Educational ComicBook                3.90
-    Exhibit Largest Blockchain LATAM BR               3.87
-    Plutus for Nigerian Universities                  3.83
-    🛫 On-Boarding ALL stakeholders                    3.78
-    Go-Peds Go-Cardano                                3.67
-    Cardano Hub in Guam, USA                          3.67
-    Blockchaindiary Education Hub                     3.67
-    Mesh Network-Konma Xperience Center               3.67
-    Cardano Hub Caracas                               3.57
-    Scale: Nationwide Innovation Hubs                 3.56
-    Checkpoint Content Hub                            3.44
-    Exhibit Largest BlockChainEXPO(JP)                3.29
-    USA East Coast Cardano CommunityHub               3.28
-    Carnivilla Market Space                           3.22
-    Cardano Hub-Complex Setup                         3.17
-    #CardanoBeach; ADA's city in Miami                3.17
-    A LIBRARY FACILITY AT MEDIE                       3.07
-    Project Support Stake pool in Japan               3.00
-    Bilingual Web3 Tech + Arts Space                  2.95
-    Jaffna Community Hub                              2.92
-    Kandy Community Hub                               2.92
-    IRI: Champaign Cardano Meetups                    2.89
-    MADAO New Mexico Ambassador program               2.83
-    Colombo Community Hub Place holder                2.83
-    Community Berlin as a franchise                   2.22
-    Living Waters Costa Rica                          1.94
-    Cardano Kombat Education Alliance                 1.74
-    The ADA Cafe Grows Cardano                        1.43
-     
     ****** F8: Gamers On - Chained ******
-    IRONSKY NFT GAME Play2Earn |4Launch               4.92
-    AdaQuest - Concept Phase 2                        4.87
+    IRONSKY NFT GAME Play2Earn |4Launch               4.95
+    AdaQuest - Concept Phase 2                        4.92
+    METAVERS OF PLAY-TO-ENTERTAIN GAMER               4.75
+    Duo - (Alpha) - Web App                           4.75
     No-code NFT minting - Revelar                     4.74
     AdaQuest PVE Quests & Stories                     4.73
-    METAVERS OF PLAY-TO-ENTERTAIN GAMER               4.73
+    Duo - Brazilian Portuguese Gameplay               4.73
     PlayerMint Play-to-Earn Marketplace               4.68
-    AdaQuest PROTOTYPE Phase 2                        4.67
-    Duo - Brazilian Portuguese Gameplay               4.67
-    Duo - (Alpha) - Web App                           4.67
+    AdaQuest ENHANCED ARENA Visual Mode               4.67
     World of Pirates - POTM Campaign #3               4.62
     Duo - German Gameplay                             4.60
+    AdaQuest PROTOTYPE Phase 2                        4.58
     Duo - (Alpha) - Mobile App                        4.58
-    AdaQuest ENHANCED ARENA Visual Mode               4.53
     World of Pirates                                  4.51
     AdaQuest MARKETING campaign                       4.50
     A2T: 5th Gen Info War Simulator                   4.47
-    d-BET: Decentralized betting Dapp                 4.44
     AdaQuest GOBLINVERSE Cross Spring                 4.44
+    d-BET: Decentralized betting Dapp                 4.44
+    Gamified Education -Play to (L)EARN               4.42
     AdaQuest ARENA - Finalize                         4.42
     Aedou - Realm of Languages                        4.42
     DLT360: Metaverse - Requirements                  4.42
     Connecting Tabletop Games & Cardano               4.39
-    Gamified Education -Play to (L)EARN               4.33
     HQ GRAPHIC FOR MIVERSE METAVERSE                  4.29
     Duo - Spanish Gameplay                            4.25
-    Littlecube Valley (game project)                  4.20
     Migration of Mobile AR MMORPG                     4.17
-    OMIMIMO The Pure Water Game                       4.17
     A2T: Alternative to Tyranny                       4.17
-    ZiberBugs NFT Autobattler game                    4.11
     Flooftopia: Social CNFT MMO Game!                 4.10
+    OMIMIMO The Pure Water Game                       4.09
     Milkomeda for Cardano unity assets                4.07
     AdaQuest SFX Library for RPG games                4.00
+    ZiberBugs NFT Autobattler game                    4.00
+    Littlecube Valley (game project)                  4.00
     On-Chain Tilemaps for Game Worlds                 3.96
     DLT360: Metaverse and Taxonomy                    3.93
     The next generation Tower Defense G               3.89
@@ -2438,55 +2370,128 @@
     METACARWARS, P2E Staking NFT                      3.33
     The Crypt Game                                    3.30
     Streaming Cardano based games                     3.08
-    Checkpoint: Blockchain Editorial                  3.00
-    Grow Your Own Adventure Mobile                    3.00
-    Mobile Cardano based crafting game                3.00
     PlayCardano.com ADA Prediction Game               3.00
-    NFC Play to earn cloths battle game               2.89
+    Mobile Cardano based crafting game                3.00
+    Checkpoint: Blockchain Editorial                  3.00
+    NFC Play to earn cloths battle game               2.79
     Cardano Casino                                    2.67
     ByKidsforKids Cardano Game Reviews                2.67
-    Esports Aegis Platform                            2.44
-    No more rug pull                                  2.24
-    FPS/3rdPS Battle Royale on Cardano                2.14
-    Three.js for 3D-Webaverse games                   2.10
+    Grow Your Own Adventure Mobile                    2.50
+    Esports Aegis Platform                            2.40
+    No more rug pull                                  2.20
     Play To Earn Marketplace                          2.07
+    FPS/3rdPS Battle Royale on Cardano                2.06
     Ye₳stBrothers- SC based game                      2.05
+    Three.js for 3D-Webaverse games                   2.00
     Captain Haiti on FIFA22, Miami FC                 1.50
+     
+    ****** F8: Scale-UP Cardano's Community Hubs ******
+    Innovatio Digital HUB                             4.90
+    C4C Community Hub Operations                      4.83
+    French West Africa Outreach                       4.83
+    Funded Proposer Sub-Circle                        4.83
+    Eastern Town Hall Team Operation                  4.81
+    China Info Hub Continued- Dumpling                4.75
+    Haskell Course for Vietnamese                     4.67
+    Science Hub in Argentina                          4.64
+    Cardano Center Poland stage 2 - SPO               4.61
+    French Haskell + Plutus Curriculum                4.58
+    Cardano Hubs Directory                            4.58
+    Townhall Channel in Vietnamese                    4.58
+    Knowledge hub for Vietnam and Japan               4.57
+    Cardano Center Poland Live                        4.56
+    Cardano Coffee lounge in Vietnam                  4.53
+    Cardano Community in Geneva                       4.52
+    Oxford Student Hub                                4.52
+    TADATek Insights                                  4.50
+    Liverpool Cardano Philosophy Hub                  4.50
+    Cardano Incredible Race - 2022                    4.50
+    Cardano Kiosk | Hub-in-a-box                      4.48
+    Automated Multilingual Tool                       4.47
+    Model ICT Hub for Deprived Students               4.43
+    Cardano Hub Indonesia-Video Series                4.38
+    Cardano Information Centre                        4.37
+    Uganda Business & Technical Hub                   4.33
+    Growing Cardano’s Ecosystem                       4.33
+    Community Hubs Impact Accelerator                 4.33
+    FIMI-Vietnamese Cardano Talk                      4.31
+    Cardano Blockchain Buenos Aires Hub               4.28
+    Cardano Baltic Startup Hub                        4.17
+    C4S - Cardano for Seniors Hubs                    4.14
+    Cardano Hub TAIWAN                                4.14
+    Blockchain Learning Center + Coffee               4.13
+    Australian University Cardano Talks               4.10
+    CardanoCommunityHubs.com Worldwide                4.08
+    SalmonNation Decentralized Alliance               4.00
+    🛫 On-Boarding ALL stakeholders                    4.00
+    Sustainable Solution Hub                          4.00
+    Networking Events LatAm EXT                       4.00
+    Cardano Stonerz Club Community Hub!               3.95
+    2Min Review by Voice for Busy Voter               3.90
+    Cardano Kids Educational ComicBook                3.90
+    Exhibit Largest Blockchain LATAM BR               3.87
+    Plutus for Nigerian Universities                  3.83
+    Go-Peds Go-Cardano                                3.67
+    Blockchaindiary Education Hub                     3.67
+    Cardano Hub in Guam, USA                          3.67
+    Mesh Network-Konma Xperience Center               3.67
+    Cardano Hub Caracas                               3.57
+    Scale: Nationwide Innovation Hubs                 3.56
+    Checkpoint Content Hub                            3.44
+    Exhibit Largest BlockChainEXPO(JP)                3.29
+    Carnivilla Market Space                           3.22
+    Cardano Hub-Complex Setup                         3.17
+    #CardanoBeach; ADA's city in Miami                3.17
+    A LIBRARY FACILITY AT MEDIE                       3.07
+    Project Support Stake pool in Japan               3.00
+    USA East Coast Cardano CommunityHub               2.93
+    Jaffna Community Hub                              2.92
+    Kandy Community Hub                               2.92
+    Colombo Community Hub Place holder                2.89
+    Bilingual Web3 Tech + Arts Space                  2.89
+    IRI: Champaign Cardano Meetups                    2.89
+    MADAO New Mexico Ambassador program               2.83
+    Community Berlin as a franchise                   2.22
+    Living Waters Costa Rica                          2.13
+    Marketplace for Artists                           2.11
+    Cardano Kombat Education Alliance                 1.74
+    The ADA Cafe Grows Cardano                        1.43
      
     ****** F8: New Member Onboarding ******
     Connecting Asian Voter and Proposer               4.91
     Onboarding East Asia Today                        4.76
-    Content & Insights: Multi-Channel                 4.62
+    Content & Insights: Multi-Channel                 4.67
     Eastern Catalyst School                           4.60
     Automated mentor-matching tool                    4.60
     After Town Hall by Catalyst Swarm                 4.54
     The Catalyst School Fund9 Operation               4.52
     New Members Engagement 2- AIM                     4.50
     Innovatio's Digital User Onboarding               4.47
-    Visualized Cardano Structure                      4.43
-    The Impact Onboarding                             4.39
+    Visualized Cardano Structure                      4.42
+    The Impact Onboarding                             4.40
     Learn 2 Earn, CA Can Be a Good Job!               4.37
+    On-boarding French Developers                     4.33
+    French West Africa Outreach                       4.30
     Cardano learning needs assessment                 4.29
     Ghana Youth Onboarding Outreach                   4.26
     Onboarding Under-represented Youth                4.24
     FreeLoaderz: Load Balancer                        4.14
     Onboarding through events                         4.12
-    Mini Proposal Workshops                           4.12
-    On-boarding French Developers                     4.00
-    Cardano Icons for consistent design               3.92
+    Mini Proposal Workshops                           4.02
+    Cardano Network Expansion in Brazil               3.95
+    Cardano Icons for consistent design               3.90
     Evangelizing Catalyst to Academics                3.81
-    Cardano Network Expansion in Brazil               3.77
     Innovation Fund Research - Roles                  3.75
+    Grow SA Cardano Community                         3.67
     Fair Stake Pool Economy                           3.58
     Onboard Impact Driven Businesses                  3.44
-    Grow SA Cardano Community                         3.38
     Onboard New Eastern African Members               3.29
     Dubai Cardano Meetup                              3.19
     CATS Community Advisor Triage Sys.                3.10
     FIAT 1ST HOT WALLET Method                        2.90
     DoDAO.io - Onboarding Platform                    2.89
     Destination CARDANO                               2.74
-    Cardano for Corporate ₳ctivation                  2.71
+    Cardano for Corporate ₳ctivation                  2.67
     Project Catalyst Onboarding Hub                   2.57
     NFT Speakeazy Onboarding Bar                      2.54
     By Kids For Kids  Learn Cardano                   2.42
@@ -2495,32 +2500,31 @@
     New Catalyst operation pattern                    2.14
     Native Token Incentivize Onboarding               2.08
     member onboarding gamer recruitment               2.00
-    Inclusive Rural Development                       2.00
     Organised Linkedin of professionals               1.44
-    Catalyst Live                                     1.17
+    Catalyst Live                                     1.33
      
     ****** F8: Developer Ecosystem ******
     NuNet: Decentralized GPU ML Cloud                 4.94
     BWORKs - Right Dev in Right Work                  4.87
     Mentor-mentee Bounties & eLearning                4.81
-    NFT Content Delivery as a Service                 4.78
     JSON API service for developers                   4.78
+    Haskell Course For Beginner                       4.78
+    NFT Content Delivery as a Service                 4.77
     Free off-chain data feeds pt. 2                   4.76
+    Beyond Create Teaming Agreements                  4.71
     Transaction monitoring as a service               4.67
-    Beyond Create Teaming Agreements                  4.67
-    Haskell Course For Beginner                       4.64
     Cardano Hackathon in Argentina                    4.62
     Haskell Book Vietnamese Translation               4.59
     Automated funding catalyst projects               4.57
-    Done Collectively: Bounty Aggreg8r                4.56
     PLUTUS FOR DEVS IN SPANISH                        4.56
-    NoCode ADA Blockchain as a Service                4.50
+    Done Collectively: Bounty Aggreg8r                4.56
     P2P Smart Contract Interaction                    4.50
-    Cardanoscan.io Upgrade                            4.47
+    NoCode ADA Blockchain as a Service                4.50
+    Cardanoscan.io Upgrade                            4.48
     PyCardano - Build dApps in Python                 4.47
     Analytics Data Hub                                4.44
-    Distributed storage Infrastructure                4.41
     Pool Topology and Block Propagation               4.41
+    Distributed storage Infrastructure                4.33
     MLabs - Cardano-Tx-Lib for web3                   4.30
     Catalyst HeartBeat                                4.29
     Haskell/Plutus Course in Spanish                  4.27
@@ -2533,24 +2537,23 @@
     Cardano IPFS chronicles 2022                      4.11
     Cardano L-EARN (for Developers)                   4.10
     Zero Knowledge API for Cardano                    4.06
-    Cardano Playground - Fun Tutorials                3.89
-    ADABet: Betting Site for Everything               3.88
+    Cardano Playground - Fun Tutorials                3.75
     KodeKlash Hackathons                              3.75
     Wolfram Catalyst Impact Dashboard                 3.75
     Tech Talent – Bring Devs to Cardano               3.73
     Poplar Programming Language                       3.73
-    Catalyst SwarmLabs                                3.71
+    ADABet: Betting Site for Everything               3.71
+    Cardapper - YT Channel For C-Devs                 3.67
     Offchain Typescript library                       3.58
-    Cardapper - YT Channel For C-Devs                 3.56
+    Catalyst SwarmLabs                                3.56
+    Delegation from Milkomeda MVP                     3.24
     East African Catalyst developers                  3.22
-    Delegation from Milkomeda MVP                     3.21
     Milkomeda token bridge explorer                   3.00
-    Petri Nets: a model to define dApps               2.83
-    Developer Conferences in S Africa                 2.75
+    Petri Nets: a model to define dApps               2.80
     Loyalty Point for Developers                      2.21
-    CHAINS NFT DEVELOPMENT                            2.19
-    Marketplace for artists                           2.17
-    Marketplace for Artists                           2.05
+    Developer Conferences in S Africa                 2.11
+    CHAINS NFT DEVELOPMENT                            1.83
+    Marketplace for artists                           1.60
     Off-Chain Perl Library                            1.00
      
     ****** F8: Fund9 challenge setting ******
@@ -2563,150 +2566,204 @@
     Legal & Financial Implementations                 4.75
     Grow Africa, Grow Cardano                         4.72
     LATAM Community Hubs                              4.71
-    Development & Node Operation                      4.67
-    Building (on) Blockfrost                          4.67
-    The Future of Democracy                           4.67
+    Community Advisor Improvements                    4.67
     Governance & Identity                             4.67
-    Catalyst Contributors                             4.67
+    The Future of Democracy                           4.67
     SSI - Design the future of identity               4.67
     Cross-Chain Collaboration                         4.67
+    Catalyst Contributors                             4.67
+    Development & Node Operation                      4.67
+    Building (on) Blockfrost                          4.67
     Developer Ecosystem                               4.67
-    Community Advisor Improvements                    4.63
     Cardano Social Enterprises                        4.62
     Gamers On-Chained                                 4.61
-    Scale-UP Cardano's Community Hubs                 4.60
-    Nation Building Dapps                             4.60
     Dapps, Products & Integrations                    4.60
     OSI: Open Standards & Interop                     4.60
+    Scale-UP Cardano's Community Hubs                 4.60
+    Nation Building Dapps                             4.60
     OSDE: Open Source Dev Ecosystem                   4.58
     NFT Community & Ecosystem                         4.57
     NGO Outreach & Integration                        4.56
-    Community & Outreach                              4.56
+    Community & Outreach                              4.53
     Cardano Supports 4 Humanitarian Aid               4.53
     Subscription-based Funding                        4.53
     Climate Change: THE Challenge                     4.47
     Governance Praxis                                 4.47
-    Catalyst Culture                                  4.44
     Cardano Contributors                              4.44
-    Improve and Grow Auditability                     4.42
     Nurturing Ideas & Teams                           4.42
     Collaboration for Governance                      4.42
-    Cardano 4 Education                               4.40
+    Improve and Grow Auditability                     4.42
     The Great Migration (from Ethereum)               4.33
-    Continue Funding SSI Projects                     4.33
-    Conflict Transformation                           4.33
+    Catalyst Culture                                  4.33
     Self-Sovereign Identity                           4.33
+    Conflict Transformation                           4.33
+    Continue Funding SSI Projects                     4.33
+    Cardano 4 Education                               4.25
     Cardano DeFi Dominance                            4.22
     Great Impact, Great Funding                       4.20
-    Funded project - ongoing operations               4.17
     Lobbying for favorable legislation                4.13
-    Proposal Management Tools &Services               4.11
+    Funded project - ongoing operations               4.11
     Grow East Asia, Grow Cardano                      4.11
-    Grow India, Grow Cardano                          4.11
+    Proposal Management Tools &Services               4.11
+    Grow Senior market to Grow Cardano!               4.11
     Global Health Care on Cardano                     4.11
+    Grow India, Grow Cardano                          4.11
+    Marketing & Community Development                 4.10
     Include Turkey Grow Cardano                       4.10
-    Marketing & Community Development                 4.08
-    Grow Senior market to Grow Cardano!               4.00
     Catalyst Impact Accelerator                       4.00
     Grow Cardano adoption in Ethiopia                 4.00
     Renovating Catalyst Governance                    3.93
     Cardano for Cities [C4C]                          3.89
     Decentralised Storage Solutions                   3.87
     Catalyst - Rapid Funding Mechanisms               3.78
-    Educate, Innovate, Develop                        3.67
     Solutions for the Open Metaverse                  3.67
+    Educate, Innovate, Develop                        3.67
     Improve User Experience on Cardano                3.60
     Attracting Startups to Cardano                    3.50
+    dRep improvement and onboarding                   3.44
     El Salvador Cardano Ecosystem                     3.42
-    dRep improvement and onboarding                   3.25
     Business Solutions                                3.06
     Guarenteed Income Distribution                    2.94
-    Catalyst Systems Innovators                       2.94
     Cardano transformation                            2.93
-    Challenge & Scouted for Students🎓                 2.92
+    Catalyst Systems Innovators                       2.80
+    Challenge & Scouted for Students🎓                 2.78
     Grow Sri Lanka Grow Cardano                       2.67
     Cardano on Social Media                           2.67
-    project feasibility research                      2.33
     Cardano for the Oceans                            2.25
-    Title = $$$, Category                             2.06
+    project feasibility research                      2.17
+    Title = $$$, Category                             1.67
     Cardano for Kids- Born and Unborn                 1.62
     LINKING PEOPLE TO THE FARM                        1.13
      
     ****** F8: Grow East Asia, Grow Cardano ******
     Bringing E.A Investors to Cardano                 4.92
-    SPO Delegators Communal CNFT                      4.78
+    SPO Delegators Communal CNFT                      4.80
     Win-Win Japan Expansion                           4.73
     Cardano Forest In Vietnam                         4.71
     Localize iohk.io for vietnamese                   4.62
-    Cardano for Asian impact ventures                 4.58
+    Future of Cardano is in East Asia                 4.57
+    Cardano for Asian impact ventures                 4.56
     Blockchain and Cardano Library                    4.52
-    Future of Cardano is in East Asia                 4.44
-    Storytelling using Mighty Cardano                 4.41
+    How to-podcasts Filipino & English                4.40
+    Storytelling using Mighty Cardano                 4.38
+    Cardano in Laotian                                4.37
+    Cardano in Khmer (Cambodian)                      4.30
     Cardano Community Hubs in Taiwan                  4.28
-    Duo - Filipino Gameplay                           4.22
     CNFT Festival Japan Meets the West                4.22
     2Min Review by Japanese Voices                    4.21
-    Cardano in Khmer (Cambodian)                      4.21
+    2Min Review by Vietnamese Voices                  4.19
+    Duo - Filipino Gameplay                           4.17
     Cardano in Burmese                                4.17
-    2Min Review by Vietnamese Voices                  4.07
-    Cardano in Thai                                   4.02
-    Cardano in Laotian                                3.95
+    Cardano in Thai                                   3.95
+    Leveling Up Cardano Indonesia IG                  3.88
     Translate no-code SSI to Japanese                 3.88
-    Leveling Up Cardano Indonesia IG                  3.87
     Expands to 1000cities in JP[APP]                  3.83
-    How to-podcasts Filipino & English                3.62
     Cardano Malaysia Community                        3.53
     Onboarding Manual for Dummies                     3.39
     Cardano Chinese Tutorial                          3.29
-    Translate Pool Peek Mobile: Korean                3.21
-    Tokyo Cardano Summit: Episode 2                   3.10
-    Translate Pool Peek Mob: Vietnamese               3.00
+    Translate Pool Peek Mobile: Korean                3.19
+    Tokyo Cardano Summit: Episode 2                   3.04
+    Translate Pool Peek Mob: Vietnamese               3.03
+    Translate Pool Peek Mobile: Thai                  2.97
     DID Business Ideas Hackathon                      2.93
     Translate Pool Peek Mobile: Burmese               2.92
     Networking/promotional events Japan               2.90
-    Translate Pool Peek Mobile: Thai                  2.89
-    Web3 x Cardano ADA Cafe in Japan                  2.67
+    Web3 x Cardano ADA Cafe in Japan                  2.75
     Sustainable forestry Hub Cambodia                 2.60
+     
+    ****** F8: Cross-Chain Collaboration ******
+    Cross-Chain Impact Lead Generator                 5.00
+    Cardano impact project directory                  5.00
+    United Caricature                                 5.00
+    Research Guild: Cross-Chain Report                4.83
+    Wolfram Cross-Chain Framework                     4.81
+    PanDAO: Focus on dDataStorage                     4.78
+    ADA-DESO Templates to Test Projects               4.67
+    Cardano+Ethereum Lifesaving NFT's                 4.67
+    Finish the Filecoin Bridge!                       4.58
+    DLT360: Metaverse and Governance                  4.58
+    ERC721 & ERC-1155 for Milkomeda                   4.53
+    KILT & Cardano                                    4.47
+    Cross-Chain Networking Events EXT                 4.44
+    DLT360: Metaverse Interoperability                4.33
+    Youth+Women Cardano NFT4Good Party                4.33
+    Cross-Chain NFT Conference OxBAT                  4.20
+    OnChainUniversity - Free Education                4.17
+    Blockchain Battle Royale Hackathon                4.17
+    Adatar.me for ATOM                                4.15
+    Cross-Chain Connector|Search Engine               4.11
+    Adatar.me for BTC                                 4.03
+    Adatar.me for XRP                                 4.00
+    Adatar.me for SOL                                 4.00
+    Adatar.me for EGLD                                3.96
+    Adatar.me for LINK                                3.96
+    The NFT Gaming Podcast - Season 2                 3.94
+    Growing the US Blockchain Community               3.94
+    Adatar.me for XTZ                                 3.93
+    Adatar.me for DOT                                 3.93
+    Adatar.me for MANA                                3.92
+    Adatar.me for DOGE                                3.92
+    Adatar.me for LTC                                 3.83
+    Adatar.me for AVAX                                3.89
+    Adatar.me for SHIB                                3.88
+    Adatar.me for ETC                                 3.85
+    Adatar.me for ALGO                                3.79
+    Adatar.me for IOTA                                3.74
+    Adatar.me for FTM                                 3.73
+    ReFi - Cross-chain Climate Action                 3.60
+    Adatar.me for ETH                                 3.46
+    Ferrum: InfinitySwap-Milestone 1-2                3.33
+    NFT Fighters: Cross-Chain Gaming                  3.33
+    Ferrum: InfinitySwap-Milestone 3-4                3.28
+    Cross-Chain Ambassadors (v 1.0)                   3.25
+    Crypto Talent Marketplace                         3.08
+    Build out ERGO Pool Infrastructure                3.06
+    Cross Chain Multiverse Travel                     2.71
+    Ferrum: InfinitySwap-Milestone 5                  2.60
+    Divine Blockchain - Phase I                       1.92
+    Coopercrypto                                      1.89
+    Native Tokens Integration                         1.17
+    Combining gold and NFTs                           1.00
      
     ****** F8: Nation Building Dapps ******
     🔥Regulation-as-code for DApps                     5.00
     NGO transparency                                  4.89
-    DAO Displays for Public Spaces                    4.73
+    DAO Displays for Public Spaces                    4.83
+    Africa Anti-counterfeit Marketplace               4.73
     Mentalyse: Learn through fun                      4.67
     A People's Cadastre in Mozambique ✊               4.67
     Open ledger for agricultural land                 4.56
-    Africa Anti-counterfeit Marketplace               4.52
     Genealogy registry in Goma, DRCongo               4.52
-    21st century Agri supply chain                    4.44
-    Open Certification and Traceability               3.89
-    Lokole/Cardano community Networks                 4.40
+    21st century Agri supply chain                    4.48
+    ADIUVAT: Find your place.                         4.46
+    Open Certification and Traceability               4.43
+    Lokole/Cardano community Networks                 4.41
     Mining traceability in a war zone                 4.38
     Microfinance on chain 3.0                         4.38
-    CommunityGrowthAcceleratorDAO                     4.33
     WadaDex|Facilitating Capital Access               4.33
     Dapp: Water Quality Platform                      4.32
     Property Registration for Housing                 4.29
     Cardano DApp for Rent                             4.26
-    Citizen Assemblies                                4.23
-    Learn & Earn for Refugees                         4.22
     Investor Network Community Platform               4.22
-    ADIUVAT: Find your place.                         3.92
-    DLT based student credential system               4.04
+    CommunityGrowthAcceleratorDAO                     4.22
+    TREEdano: Regenerative NFTrees                    4.22
+    Learn & Earn for Refugees                         4.22
+    Citizen Assemblies                                4.18
     Modern Hospital Management System                 3.96
     Liberated Global Education                        3.96
+    DLT based student credential system               3.95
     DApp for Tech Repairers                           3.92
     Operationalizing Human Security                   3.83
-    TREEdano: Regenerative NFTrees                    3.83
-    5 Loaves 2 Fish Feed The Hungry App               3.78
-    AdaSign                                           3.78
+    5 Loaves 2 Fish Feed The Hungry App               3.83
+    Multipurpose Cadastre Blockchain                  3.76
     Decentralizing Government                         3.75
-    Multipurpose Cadastre Blockchain                  3.62
-    d-edTech Platform dApp for LatAm                  3.50
+    AdaSign                                           3.67
     INDIGO, AFRICA & FUTURE FASHION                   3.39
-    Proof of Article (SMALL ASK)                      3.22
     PropX :- Property Exchange                        3.22
-    Nonprofits to Jumpstart adoptionNEW               2.87
-    Transforming the economic system.                 2.74
+    Proof of Article (SMALL ASK)                      3.22
+    d-edTech Platform dApp for LatAm                  3.11
+    Nonprofits to Jumpstart adoptionNEW               2.96
+    Transforming the economic system.                 2.83
     Indigenous Land Rematriation                      2.73
     Proof of Article (BIG ASK)                        2.71
     Curb Crime by capturing Data                      2.67
@@ -2714,93 +2771,40 @@
     Operation Clean you Frontage .                    2.12
     Hello Future - Digital Time Capsule               1.79
      
-    ****** F8: Cross-Chain Collaboration ******
-    Cross-Chain Impact Lead Generator                 5.00
-    Cardano impact project directory                  5.00
-    Wolfram Cross-Chain Framework                     4.81
-    Research Guild: Cross-Chain Report                4.78
-    PanDAO: Focus on dDataStorage                     4.78
-    ADA-DESO Templates to Test Projects               4.67
-    DLT360: Metaverse and Governance                  4.58
-    Finish the Filecoin Bridge!                       4.58
-    United Caricature                                 4.56
-    ERC721 & ERC-1155 for Milkomeda                   4.53
-    KILT & Cardano                                    4.47
-    Cross-Chain Networking Events EXT                 4.44
-    DLT360: Metaverse Interoperability                4.33
-    Cross-Chain NFT Conference OxBAT                  4.20
-    Blockchain Battle Royale Hackathon                4.17
-    OnChainUniversity - Free Education                4.17
-    Adatar.me for ATOM                                4.15
-    Cardano+Ethereum Lifesaving NFT's                 4.11
-    Cross-Chain Connector|Search Engine               4.08
-    Adatar.me for EGLD                                4.07
-    Adatar.me for MANA                                4.03
-    Adatar.me for BTC                                 4.03
-    Adatar.me for XRP                                 4.00
-    Adatar.me for SOL                                 4.00
-    Growing the US Blockchain Community               3.94
-    The NFT Gaming Podcast - Season 2                 3.94
-    Adatar.me for XTZ                                 3.94
-    Adatar.me for ALGO                                3.93
-    Adatar.me for DOT                                 3.93
-    Adatar.me for DOGE                                3.92
-    Adatar.me for LTC                                 3.85
-    Adatar.me for LINK                                3.90
-    Adatar.me for AVAX                                3.90
-    Adatar.me for SHIB                                3.89
-    Youth+Women Cardano NFT4Good Party                3.89
-    Adatar.me for ETC                                 3.87
-    Adatar.me for FTM                                 3.86
-    Adatar.me for IOTA                                3.73
-    ReFi - Cross-chain Climate Action                 3.60
-    Adatar.me for ETH                                 3.52
-    Ferrum: InfinitySwap-Milestone 1-2                3.33
-    NFT Fighters: Cross-Chain Gaming                  3.33
-    Ferrum: InfinitySwap-Milestone 3-4                3.28
-    Cross-Chain Ambassadors (v 1.0)                   3.25
-    Crypto Talent Marketplace                         3.20
-    Build out ERGO Pool Infrastructure                3.06
-    Cross Chain Multiverse Travel                     2.71
-    Ferrum: InfinitySwap-Milestone 5                  2.60
-    Coopercrypto                                      1.89
-    Native Tokens Integration                         1.17
-    Combining gold and NFTs                           1.00
-     
     ****** F8: Grow India, Grow Cardano ******
     The future of Cardano is Indian                   4.75
+    K SPROUT-Leveraging Indian Startups               4.62
     CNFTs for afforestation in India                  4.61
-    K SPROUT-Leveraging Indian Startups               4.59
     Cardano coffee - Regional languages               4.55
     Web3 school for India                             4.50
     Cardano in Punjabi                                4.23
-    Cardano in Marathi                                4.21
-    Cardano in Hindi                                  4.17
-    Cardano in Telugu                                 4.17
-    Cardano in Bengali                                4.15
-    Cardano in Kannada                                4.15
+    Cardano in Bengali                                4.20
+    Cardano in Telugu                                 4.18
+    Indian SPO Support and Education                  4.17
+    Cardano in Kannada                                4.17
+    Cardano in Marathi                                4.15
     Cardano White Board videos (Telugu)               4.14
-    Cardano in Gujarati                               4.11
     Cardano in Nepali                                 4.11
-    Cardano in Bhojpuri                               4.08
+    Cardano in Malayalam                              4.11
+    Cardano in Gujarati                               4.11
+    Cardano in Hindi                                  4.10
     Cardano India Community Meetups                   4.07
     Cardano in Urdu                                   4.07
-    Win-Win India Expansion                           4.06
     Cardano Builders Hub-Local chapters               4.06
-    Indian SPO Support and Education                  4.05
-    Skrypt Labs - Innovation & Adoption               4.05
-    Cardano in Tamil                                  4.04
-    Cardano in Malayalam                              4.03
+    Skrypt Labs - Innovation & Adoption               4.06
     Cardano in Odia                                   4.00
+    Cardano in Tamil                                  3.98
     CardanoOutreach - India Focus                     3.95
+    Cardano in Bhojpuri                               3.92
     Cardano in Assamese                               3.88
-    Cardano India Tribe - Konmahood                   3.79
+    Win-Win India Expansion                           3.87
+    Cardano India Tribe - Konmahood                   3.78
     Cardano Green Initiative - India                  3.74
-    Cardano in SInhala                                3.69
+    Cardano in SInhala                                3.67
     Cardano Accelerator for India                     3.58
-    Networking Events Bombay, India                   3.48
+    Networking Events Bombay, India                   3.44
     Cardano Reuse Plastic India Hub                   2.72
-    360 Development Launchpad                         2.52
+    360 Development Launchpad                         2.44
     Credwise                                          1.40
      
     ****** F8: Film + Media (FAM) creatives unite! ******
@@ -2810,27 +2814,27 @@
     Youth user generated content                      4.63
     Wada documentary                                  4.61
     Documentary: South America                        4.56
+    Cardano Annual Market Report                      4.41
     MAKE CONTENT MORE FUN TO LEARN EASY               4.41
-    Theatre For Change                                4.40
-    Cardano Annual Market Report                      4.37
     Auditability through film and media               4.33
+    Theatre For Change                                4.33
     Keeping Up with Cardano: 100 videos               4.19
-    Blockchain Class by adatruth.com                  4.00
-    MLabs - "The Universal Joint"                     3.90
-    Animated Explainers for the world                 3.79
-    Decentralized Cinema Festival                     3.78
+    Blockchain Class by adatruth.com                  4.10
+    MLabs - "The Universal Joint"                     4.07
+    Cardano Innovator's Story                         3.25
     NFT Devs Bridge to Project Catalyst               3.78
-    A Film of Cardano Mission in Africa               3.73
-    Give Maasai Pastoralists DiD                      3.72
-    Permaculture & Blockchain: YouTube                3.67
-    Cardano Innovator's Story                         3.21
+    Decentralized Cinema Festival                     3.78
+    Permaculture & Blockchain: YouTube                3.72
+    Animated Explainers for the world                 3.71
+    A Film of Cardano Mission in Africa               3.67
     Tunisian Video Creation for N-A                   3.47
+    Give Maasai Pastoralists DiD                      3.47
     Checkpoint Learning and Media                     3.40
     ADAO Education & Marketing Content                3.24
     Cardano-centric YouTube-style site                3.22
     Cadano UNE Brazil Branded Marketing               3.20
-    Bykids4kids -  Projects Spotlighted               3.11
     Cardano's Footprint in Ethiopia                   3.06
+    Bykids4kids -  Projects Spotlighted               2.93
     Cardano on PBS, Project Development               2.83
     Short educational series                          2.81
     ADA funded STEM themed indie film                 2.75
@@ -2838,7 +2842,7 @@
     Japanese Cardano Master Class                     2.62
     Monaco Streaming Film Festival 2022               2.56
     DUB popular ADA Video for the World               2.33
-    The Creators Story NFTs                           1.96
+    The Creators Story NFTs                           1.62
      
     ****** F8: Accelerate Decentralized Identity ******
     PeopleCert DevOps Pilot on Cardano                5.00
@@ -2879,22 +2883,8 @@
     General Purpose Identification                    2.75
     MetaDID experiment × Aizu Lab                     2.39
     Wallet store gall agent                           2.25
+    DemeterGift                                       2.08
     Credentials and P2PDecentralized ID               1.78
-     
-    ****** F8: Community Advisor Improvements ******
-    vCA-tool Dev & Maitain - AIM                      4.97
-    CA-tool Dev & Maintenance - AIM                   4.94
-    CA Guidelines Joint Drafting                      4.57
-    Improving Integrity of CA Processes               4.56
-    CA/VCA Treasury for Rapid Funding                 4.03
-    Incremental CA assessments                        3.96
-    CA Academy Certification                          3.78
-    dRep's Code of Ethics+Bridges Asia                3.53
-    CA Improvement Mechanism                          3.38
-    Community Advisors Marketing Blitz                3.19
-    Structured Questionnaire for CAs                  2.77
-    Enable educated CA decisions                      2.36
-    Catalyst voting stake delegation                  1.42
      
     ****** F8: Self-Sovereign Identity ******
     DIDComm v2 Mediator                               5.00
@@ -2912,11 +2902,11 @@
     Trust Registry with Smart Contract                4.60
     Green Yoma - SSI SDG Marketplace                  4.39
     KYC Credentials PoC                               4.33
+    Traveller ID Ecosystem                            4.33
+    NEURALPRINT: Neural ID's & NFT's                  4.33
     SSI for Coffee in East Africa                     4.28
-    NEURALPRINT: Neural ID's & NFT's                  4.25
     SSI through ancestral Africa lenses               4.22
     NFT - Proof of Authenticity                       4.07
-    Traveller ID Ecosystem                            4.07
     Immigration Documents On Chain                    4.00
     The Workers Protocol (WP)                         3.78
     DID Community Trust Registry                      3.67
@@ -2924,41 +2914,58 @@
     DAO-NET: Sybil Defense by ZKP                     3.44
     Disability, Accessibility & Equity                3.33
     Bridge Atala and Sovrin -Indy/Aries               2.25
-    The Power of Sovereignty at Birth                 2.07
+    The Power of Sovereignty at Birth                 2.00
+     
+    ****** F8: Community Advisor Improvements ******
+    vCA-tool Dev & Maitain - AIM                      5.00
+    CA-tool Dev & Maintenance - AIM                   4.94
+    CA Guidelines Joint Drafting                      4.57
+    Improving Integrity of CA Processes               4.56
+    CA/VCA Treasury for Rapid Funding                 4.03
+    Incremental CA assessments                        3.96
+    CA Academy Certification                          3.75
+    dRep's Code of Ethics+Bridges Asia                3.53
+    CA Improvement Mechanism                          3.36
+    Community Advisors Marketing Blitz                3.19
+    Structured Questionnaire for CAs                  2.77
+    Enable educated CA decisions                      2.36
+    Catalyst voting stake delegation                  1.42
      
     ****** F8: Open Standards & Interoperability ******
+    DLT360: Technology RADAR Team                     5.00
+    DYOR Tool                                         5.00
     Community collaboration standards                 4.92
-    DLT360: Technology RADAR Team                     4.78
-    DYOR Tool                                         4.67
+    Research Guild: Ecosystem Report                  4.56
+    Marlowe for Financial Markets                     4.56
     Open ISPO                                         4.56
     DLT360: Governance RADAR Team                     4.56
-    Marlowe for Financial Markets                     4.52
     Open Standards & Design Patterns                  4.50
     NFT-Guild: NFT Royalty Standards                  4.42
     Open Source Fungify                               4.42
     PRISM VC Schema/Cred Definition                   4.39
-    Make learn Cardano easier                         4.33
+    Make learn Cardano easier                         4.27
     Mentorship Incentivization DAO                    4.21
     Avatarada                                         4.20
     CIP Editor time Sebastien for 1year               4.20
-    A More Robust NFT standard                        4.17
     Tenant Profile                                    4.13
+    Codesign blockchain4good Principles               4.11
     Standard for verification of NFTs                 4.08
+    A More Robust NFT standard                        4.00
     Sign-in with Cardano                              4.00
-    Codesign blockchain4good Principles               3.92
-    Research Guild: Ecosystem Report                  3.80
     Authentication Protocol Work Group                3.67
     Ideation Protocol Work Group                      3.44
     Sustainable Business Standards                    3.22
-    Metadata Dictionary                               3.11
+    Open Certification and Traceability               2.83
+    Metadata Dictionary                               2.80
     Community and Content Accessibilty                2.73
     NFT as an event ticket                            1.67
     Ouroboros-mini query specification                1.25
      
     ****** F8: The Great Migration (from Ethereum) ******
     Carbon ERC-20 Converter to Cardano                4.88
+    Scaling CNFTs, minus the ETH mess                 4.76
     Attract ETH NFT Projects & Talent                 4.62
-    Scaling CNFTs, minus the ETH mess                 4.62
+    Bring Bored Apes* to Cardano                      4.50
     Migrating from ETH: Newcomer Setup                4.40
     Beacon of Cardano GameFi                          4.27
     Eth Rehab - Recovery with Cardano                 4.25
@@ -2967,35 +2974,16 @@
     Incentivized learning to move users               4.13
     Eth Gas to Fuel the ADA Fire                      4.12
     Connect projects with developers                  4.08
-    Bring Bored Apes* to Cardano                      4.07
-    NFT marketplace builder platform                  4.00
+    NFT marketplace builder platform                  3.93
     AIDA: Decentralized AI on Cardano                 3.83
     The Impact Migration                              3.81
     Bridging NFTs -> remint on Cardano                3.67
     Project Monarch - GoingUP                         3.39
     Farming incentive to move liquidity               3.28
-    Bridge liquidity for top protocols                2.67
-    Milkomeda accelerator batch #2                    2.29
+    ADATOMS HQ Science & DeFi Dec. Ed.                2.47
+    Bridge liquidity for top protocols                2.33
+    Milkomeda accelerator batch #2                    2.05
     How did Sony take on Nintendo?!                   1.73
-     
-    ****** F8: Cardano scaling solutions ******
-    Decentralized REDIS state channels                4.60
-    DAO-NET & A2T Sidechain Design                    4.50
-    Research Guild: Scalability Report                4.33
-    Perun Channels for Cardano                        4.17
-    Simplify SPO rollups in Vietnam                   4.08
-    A region-based sharded network                    3.94
-    A Scalable Service For NFT Utility                3.93
-    Orbis: Layer 2 ZK Rollup                          3.73
-    Erdstall: instant TXs, L2 NFT mints               3.33
-    Layer 3 scalability using zkRollups               3.08
-    DEFI SHOULD BE MORE FUN ON SCALING                3.00
-    ADA Scam Alert - Info & Protection                2.80
-    Ada's Place - A Medium Publication                2.74
-    using games to scale audience                     1.85
-    BeerHouse.io                                      1.75
-    KONMA Chain : L2 ZK Roll up for ADA               1.67
-    Konma Chain- ZK Rollup L2 for ADA                 1.56
      
     ****** F8: Lobbying for favorable legislation ******
     Favorable legislation in Argentina                4.87
@@ -3006,12 +2994,12 @@
     Commonwealth+UNESCAP+CatalystImpact               4.33
     Chamber of Digital Commerce for ...               4.33
     Legislation in PA and Beyond                      4.27
+    Arizona for Cardano Lobby                         4.11
     DLT360: Regulatory RADAR Team                     4.11
     IRI: Educating Crypto Regulators                  4.00
     Cardano Lawyer / Advocacy (DLT360)                3.92
     Educational tool kit f/ legislators               3.87
     Mobilize : Grass-root activism                    3.86
-    Arizona for Cardano Lobby                         3.83
     Colombian Congress Cardano                        3.67
     Lobby International & SA Bank Regs                3.39
     Regulation in Sri Lanka                           3.33
@@ -3021,6 +3009,25 @@
     TermLimitsDAO                                     2.17
     American USDC think tank                          1.95
     Assembly of State Blockchain PAC's                1.83
+     
+    ****** F8: Cardano scaling solutions ******
+    Decentralized REDIS state channels                4.60
+    DAO-NET & A2T Sidechain Design                    4.56
+    Research Guild: Scalability Report                4.33
+    Perun Channels for Cardano                        4.17
+    Simplify SPO rollups in Vietnam                   3.95
+    A region-based sharded network                    3.94
+    A Scalable Service For NFT Utility                3.93
+    Orbis: Layer 2 ZK Rollup                          3.73
+    Erdstall: instant TXs, L2 NFT mints               3.33
+    Layer 3 scalability using zkRollups               3.08
+    DEFI SHOULD BE MORE FUN ON SCALING                3.00
+    Ada's Place - A Medium Publication                2.74
+    ADA Scam Alert - Info & Protection                2.54
+    using games to scale audience                     1.85
+    BeerHouse.io                                      1.75
+    KONMA Chain : L2 ZK Roll up for ADA               1.67
+    Konma Chain- ZK Rollup L2 for ADA                 1.56
      
     ****** F8: Improve and Grow Auditability ******
     WADA Qualitative Audit Pilot                      5.00
@@ -3032,25 +3039,22 @@
     Wolfram Governance Analytics                      4.50
     Renovate Catalyst funding mechanism               4.47
     P.I.E for Gamers-On-Chained                       4.44
+    P.I.E for Community Dev. Sector                   4.33
     P.I.E for Miscellaneous-Challenge                 4.22
     StakingDAO: DAO & Contract Audit                  4.17
     Auditing & Project Mgmt. via Kanban               4.00
-    P.I.E for Community Dev. Sector                   4.00
     Proposal Translation with Human QA                3.89
     Project Managment & Track Directory               3.80
-    Growing CA community via Hubs                     3.33
+    ₳GOV: Timelines and Treasury Data                 3.44
     Proof of Accomplishment on Catalyst               3.27
+    Growing CA community via Hubs                     3.27
     Auditing South American Proposals.                3.17
-    ₳GOV: Timelines and Treasury Data                 3.08
     Audit Tokens For Catalyst Winners                 2.25
     Bayes Spam filter for vCAs                        1.13
     Transparancy in Campaign Financing                1.08
      
-    ****** #N/D ******
-    Purpose Entities AoA (Game~B!)                    3.67
-     
 </details>
-
+     
 ## Fancy wordcloud from CA's feedack
 ![png](output_33_0.png)
 ## CA bias from average score histogram
