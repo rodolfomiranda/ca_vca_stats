@@ -4283,7 +4283,7 @@
      
 ## Fancy wordcloud from PA's feedack
 ![png](wordcloud.png)
-## CA bias from average score histogram
+## PA bias from average score histogram
 ### Fund 6
 ![png](histogramf6.png)
 ### Fund 7
